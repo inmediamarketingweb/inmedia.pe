@@ -1,0 +1,190 @@
+{
+    "servicios":[
+        {
+            "id": 1,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/bullhorn-solid.svg",
+            "iconoAlt": "icono de megafono",
+            "titulo": [
+                {
+                    "span-1": "Planes de",
+                    "span-2": "marketing"
+                }
+            ],
+            "texto": "Desarrollamos estrategias anuales o trimestrales, desde la investigación hasta la ejecución. Incluye análisis competitivo y desarrollo de tácticas para alcanzar tus metas."
+        },
+        {
+            "id": 2,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/magnifying-glass-solid.svg",
+            "iconoAlt": "icono de lupa",
+            "titulo": [
+                {
+                    "span-1": "Investigación",
+                    "span-2": "de mercado"
+                }
+            ],
+            "texto": "Realizamos estudios detallados que abarcan análisis de tendencias y comportamiento del consumidor para tomar decisiones informadas y entender el mercado."
+        },
+        {
+            "id": 3,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/chart-line-solid.svg",
+            "iconoAlt": "icono de grafica con una sola linea",
+            "titulo": [
+                {
+                    "span-1": "Desarollo de productos y",
+                    "span-2": "estrategia de productos"
+                }
+            ],
+            "texto": "Facilitamos la creación y lanzamiento de productos, desde el diseño hasta el pricing y la comunicación, asegurando que cumplan con las necesidades del mercado."
+        },
+        {
+            "id": 4,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/a-solid.svg",
+            "iconoAlt": "icono de la letra a",
+
+            "titulo": [
+                {
+                    "span-1": "Branding y",
+                    "span-2": "posicionamiento"
+                }
+            ],
+            "texto": "Definimos o renovamos la identidad de tu marca para alinearla con los valores de tu empresa y mejorar la percepción del consumidor."
+        },
+        {
+            "id": 5,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/money-bill-solid.svg",
+            "iconoAlt": "icono de un billete",
+            "titulo": [
+                {
+                    "span-1": "Estrategias de distribución",
+                    "span-2": "y canales de venta"
+                }
+            ],
+            "texto": "Optimizamos la distribución de tus productos a través de múltiples canales, garantizando un alcance eficiente a tu público objetivo."
+        },
+        {
+            "id": 6,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/dollar-sign-solid.svg",
+            "iconoAlt": "icono de simbolo de dolar",
+            "titulo": [
+                {
+                    "span-1": "Consultoría en",
+                    "span-2": "precios y promociones"
+                }
+            ],
+            "texto": "Elaboramos estrategias de pricing y promociones basadas en análisis de mercado y competencia la conversión y el valor de tus ofertas."
+        },
+        {
+            "id": 7,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/hand-holding-heart-solid.svg",
+            "iconoAlt": "icono de un mano con un corazon",
+            "titulo": [
+                {
+                    "span-1": "Estrategias de fidelización",
+                    "span-2": "y retención de clientes"
+                }
+            ],
+            "texto": "Implementamos programas y acciones de fidelización para máximizar el valor de vida del cliente y fortalecer relaciones duraderas."
+        },
+        {
+            "id": 8,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/chart-simple-solid.svg",
+            "iconoAlt": "icono de una grafica con una linea simple",
+            "titulo": [
+                {
+                    "span-1": "Análisis y métricas",
+                    "span-2": "de marketing"
+                }
+            ],
+            "texto": "Monitoreamos el desempeño de las estrategias mediante análisis de KPI's para optimizar acciones y garantizar resultados sostenibles."
+        },
+        {
+            "id": 9,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/chart-line-solid.svg",
+            "iconoAlt": "icono de una grafica con una linea simple",
+            "titulo": [
+                {
+                    "span-1": "Gestión de",
+                    "span-2": "reputación online"
+                }
+            ],
+            "texto": "Monitoreamos y optimizamos tu presencia digital, manejando opiniones y respuestas para que reflejen fielmente los valores de tu marca, mejorando la percepción del consumidor y su decisión de compra."
+        }
+    ],
+
+    "paquetes":[
+        {
+            "id": 1,
+            "titulo": "Impulso estratégico",
+            "precio": "1500",
+            "texto": "Ideal para microempresas y startups que buscan establecer una presencia en el mercado con una estrategia sólida y enfocada en resultados a corto plazo.",
+            "lista":[
+                {
+                    "item-1": "Diagnóstico de mercado y análisis de competidores",
+                    "item-2": "Definición de objetivos de marketing",
+                    "item-3": "Plan de marketing trimestral",
+                    "item-4": "Asesoría en branding y comunicación digital",
+                    "item-5": "Capacitación básica para la implementación."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Evolución competitiva",
+            "precio": "3000",
+            "texto": "Diseñado para pequeños negocios que necesitan estructurar su estrategia y fortalecer su presencia en el mercado. Este paquete permite establecer una base de marketing sólida con enfoque en crecimiento.",
+            "lista":[
+                {
+                    "item-1": "Diagnóstico y análisis competitivo",
+                    "item-2": "Definición de objetivos comerciales y plan de marketing a 6 meses",
+                    "item-3": "Estrategia de branding y contenido digital",
+                    "item-4": "Informe de resultados y optimización"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Crecimiento sostenido",
+            "precio": "6000",
+            "texto": "Para empresas en crecimiento que requieren una estrategia más avanzada para escalar y expandir su mercado. El enfoque está en tácticas a largo plazo que permitan consolidar su competitividad.",
+            "lista":[
+                {
+                    "item-1": "Investigación de mercado profunda y análisis competitivo",
+                    "item-2": "Desarrollo de la estrategia de marca y productos",
+                    "item-3": "Plan de marketing anual con revisiones trimestrales",
+                    "item-4": "Estrategias avanzadas de marketing digital y retención de clientes",
+                    "item-5": "Medición continua y optimización mensual"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "Dominio estratégico",
+            "precio": "12000",
+            "texto": "Pensado para grandes empresas que necesitan una estrategia de marketing integral que cubra todos los aspectos, desde la investigación de mercado hasta la ejecución de campañas. Ideal para aquellas que no cuentan con un departamento de marketing propio.",
+            "lista":[
+                {
+                    "item-1": "Investigación de mercado avanzada y análisis competitivo",
+                    "item-2": "Desarrollo de estrategias de branding y productos",
+                    "item-3": "Plan de marketing integral con revisiones trimestrales",
+                    "item-4": "Estrategias completas de marketing digital (SEO, SEM, publicidad)",
+                    "item-5": "Gestión de campañas publicitarias y retención de clientes"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "titulo": "Excelencia estratégica",
+            "precio": "8000",
+            "texto": "Diseñado para empresas que ya cuentan con un departamento de marketing, pero que buscan asesoría estratégica de alto nivel para optimizar sus acciones y lograr mejores resultados. Este paquete ofrece consultoría especializada y acompañamiento estratégico continuo.",
+            "lista":[
+                {
+                    "item-1": "Consultoría mensual personalizada y recomendaciones estratégicas",
+                    "item-2": "Optimización de la estrategia de marketing existente",
+                    "item-3": "Capacitación para el equipo de marketing",
+                    "item-4": "Asesoría en campañas digitales y análisis competitivo",
+                    "item-5": "Métricas y optimización continua de resultados"
+                }
+            ]
+        }
+    ]
+}

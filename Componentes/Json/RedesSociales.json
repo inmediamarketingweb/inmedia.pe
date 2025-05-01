@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "iconoSrc": "https://inmedia.pe/Imagenes/Iconos/blanco/facebook-brands-solid.svg",
+        "link": "https://www.facebook.com/InmediaMarketingWeb/",
+        "texto": "Facebook",
+        "title": "Nuestro perfil de Facebook"
+    },
+    {
+        "id": 2,
+        "icono": "fa-brands fa-instagram",
+        "iconoSrc": "https://inmedia.pe/Imagenes/Iconos/blanco/instagram-brands-solid.svg",
+        "texto": "Instagram",
+        "title": "Nuestro perfil de Instagram"
+    },
+    {
+        "id": 3,
+        "icono": "fa-brands fa-youtube",
+        "iconoSrc": "https://inmedia.pe/Imagenes/Iconos/blanco/youtube-brands-solid.svg",
+        "texto": "YouTube",
+        "title": "Nuestro canal de YouTube"
+    }
+]

@@ -1,0 +1,593 @@
+{
+    "servicios":[
+        {
+            "id": 1,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/google-brands-solid.svg",
+            "iconoAlt": "icono del simbolo de google",
+            "titulo":[
+                {
+                    "span-1": "Gestión de",
+                    "span-2": "Google Ads"
+                }
+            ],
+            "content":[
+                {
+                    "parrafo-1": "Creamos y gestionamos campañas en Google Ads (búsqueda, display, shopping y remarketing), asegurando que tu marca aparezca en los primeros resultados de búsqueda y en las redes de display de Google.",
+                    "parrafo-2": "También implementamos anuncios en YouTube para aumentar la visibilidad."
+                }
+            ],
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": 450,
+                    "lista":[
+                        {
+                            "item-1": "Creación y gestión de 1 campaña de búsqueda",
+                            "item-2": "Hasta 3 anuncios (búsqueda)",
+                            "item-3": "15 palabras clave investigadas y seleccionadas",
+                            "item-4": "Optimización básica de anuncios y palabras clave",
+                            "item-5": "Optimización semanal del presupuesto",
+                            "item-6": "Reporte mensual con métricas clave (clics, impresiones, CTR)",
+                            "item-7": "Seguimiento de conversiones básicas"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Intermedio",
+                    "precio": 850,
+                    "lista":[
+                        {
+                            "item-1": "Creación y gestión de 1 campaña de búsqueda + 1 campaña de remarketing",
+                            "item-2": "Hasta 6 anuncios (búsqueda y display)",
+                            "item-3": "30 palabras clave investigadas y seleccionadas",
+                            "item-4": "A/B Testing en anuncios",
+                            "item-5": "Optimización avanzada semanal de palabras clave y anuncios",
+                            "item-6": "Seguimiento de conversiones y eventos clave en el sitio web",
+                            "item-7": "Análisis y optimización de embudo de ventas",
+                            "item-8": "Reporte quincenal con recomendaciones para mejorar el rendimiento",
+                            "item-9": "Configuración de Google Analytics 4 y análisis de datos"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Avanzado",
+                    "precio": 1350,
+                    "lista":[
+                        {
+                            "item-1": "Creación y gestión de 1 campaña de búsqueda + 1 campaña de remarketing + 1 campaña en YouTube",
+                            "item-2": "Hasta 10 anuncios (búsqueda, display, video)",
+                            "item-3": "50 palabras clave investigadas y seleccionadas",
+                            "item-4": "Segmentación por audiencia (intención de compra, demografía, intereses)",
+                            "item-5": "A/B Testing avanzado para anuncios de texto y banners",
+                            "item-6": "Optimización diaria de presupuesto, anuncios y palabras clave",
+                            "item-7": "Integración completa con Google Analytics 4 para análisis de eventos, conversiones y ROI",
+                            "item-8": "Campaña de remarketing dinámico (productos personalizados según el comportamiento del usuario)",
+                            "item-9": "Reporte semanal con insights profundos y ajustes en tiempo real",
+                            "item-10": "Configuración de Google Tag Manager para el seguimiento de eventos personalizados"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "titulo": "Empresarial",
+                    "precio": 1950,
+                    "lista":[
+                        {
+                            "item-1": "Creación y gestión de 3 campañas (búsqueda, remarketing, video, shopping)",
+                            "item-2": "Hasta 15 anuncios (búsqueda, display, video, shopping)",
+                            "item-3": "Investigación avanzada de +80 palabras clave",
+                            "item-4": "Análisis competitivo de la industria",
+                            "item-5": "Optimización de audiencia personalizada y segmentación geográfica",
+                            "item-6": "Estrategias avanzadas de puja (CPA objetivo, maximizar conversiones)",
+                            "item-7": "Optimización diaria y análisis de conversiones",
+                            "item-8": "Remarketing dinámico y campañas locales",
+                            "item-9": "Reportes semanales detallados con métricas clave de rendimiento y recomendaciones",
+                            "item-10": "Configuración avanzada de Google Analytics 4 para el análisis detallado de la interacción del usuario",
+                            "item-11": "Consultoría mensual para ajustes estratégicos"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/facebook-brands-solid.svg",
+            "iconoAlt": "icono del simbolo de facebook",
+            "titulo":[
+                {
+                    "span-1": "Publicidad en",
+                    "span-2": "Facebook Ads"
+                }
+            ],
+            "content":[
+                {
+                    "parrafo-1": "Creamos campañas personalizadas en Facebook, enfocadas en alcanzar al público adecuado a través de una segmentación avanzada.",
+                    "parrafo-2": "Con optimización continua, garantizamos que tus anuncios generen la mayor conversión posible y maximicen tu retorno de inversión."
+                }
+            ],
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": 390,
+                    "lista":[
+                        {
+                            "item-1": "Creación y gestión de 1 campaña enfocada en aumentar likes o seguidores en tu fanpage",
+                            "item-2": "Hasta 3 anuncios optimizados para Facebook e Instagram",
+                            "item-3": "Segmentación básica por edad, intereses y ubicación",
+                            "item-4": "Optimización semanal del rendimiento de anuncios",
+                            "item-5": "Generación de +1000 likes en la fanpage o cuenta de Instagram",
+                            "item-6": "Configuración del Pixel de Facebook para medir el rendimiento",
+                            "item-7": "Reporte mensual con métricas clave de interacción"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Intermedio",
+                    "precio": 750,
+                    "lista":[
+                        {
+                            "item-1": "Creación y gestión de 2 campañas: 1 de tráfico y 1 de interacción",
+                            "item-2": "Hasta 5 anuncios optimizados para Facebook e Instagram",
+                            "item-3": "Segmentación avanzada por intereses, comportamiento y ubicación",
+                            "item-4": "A/B Testing en anuncios para maximizar el rendimiento",
+                            "item-5": "Optimización para conversiones o interacciones clave (likes, mensajes, formularios)",
+                            "item-6": "Configuración y seguimiento de conversiones con el Pixel de Facebook",
+                            "item-7": "Campañas de remarketing para reconectar con usuarios que interactuaron anteriormente",
+                            "item-8": "Reporte quincenal con métricas avanzadas y recomendaciones de mejora"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Avanzado",
+                    "precio": 1150,
+                    "lista":[
+                        {
+                            "item-1": "Creación y gestión de 3 campañas (tráfico, conversión, remarketing)",
+                            "item-2": "Hasta 8 anuncios optimizados para Facebook, Instagram, y red de audiencias",
+                            "item-3": "Segmentación ultra-avanzada con públicos personalizados, Lookalike Audience y remarketing",
+                            "item-4": "A/B Testing avanzado en anuncios de video y gráficos",
+                            "item-5": "Optimización diaria para maximizar el retorno de inversión",
+                            "item-6": "Implementación completa de Pixel de Facebook y API de conversiones",
+                            "item-7": "Estrategia de retargeting enfocada en visitantes y abandonadores de carrito (e-commerce)",
+                            "item-8": "Reporte semanal con análisis profundo de métricas y ajustes estratégicos",
+                            "item-9": "Consultoría mensual para ajustes en la estrategia y presupuesto"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "titulo": "Empresarial",
+                    "precio": 1950,
+                    "lista":[
+                        {
+                            "item-1": "Creación y gestión de campañas multicanal en Facebook, Instagram, y red de audiencias (Audience Network).",
+                            "item-2": "Hasta 12 anuncios optimizados con video marketing y formatos interactivos.",
+                            "item-3": "Segmentación por audiencia personalizada con datos de clientes y comportamiento online",
+                            "item-4": "Remarketing dinámico para productos y servicios específicos",
+                            "item-5": "Optimización avanzada con conversiones y eventos personalizados",
+                            "item-6": "Estrategia de anuncios de venta directa y lead generation",
+                            "item-7": "Consultoría mensual para ajustar la estrategia de campañas y optimización continua",
+                            "item-8": "Reporte semanal detallado con recomendaciones tácticas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/instagram-brands-solid.svg",
+            "iconoAlt": "icono del simbolo de instagram",
+            "titulo":[
+                {
+                    "span-1": "Publicidad en",
+                    "span-2": "Instagram Ads"
+                }
+            ],
+            "content":[
+                {
+                    "parrafo-1": "Desarrollamos campañas visuales e impactantes en Instagram, diseñadas para captar la atención de tu audiencia objetivo.",
+                    "parrafo-2": "Usamos segmentación precisa y formatos atractivos para aumentar el engagement y las conversiones, aprovechando el poder visual de esta plataforma."
+                }
+            ],
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": 350,
+                    "lista":[
+                        {
+                            "item-1": "1 campaña de publicidad (puede ser para seguidores, tráfico o conversiones)",
+                            "item-2": "Hasta 3 anuncios (optimizados para imagen, video o carrusel)",
+                            "item-3": "Segmentación avanzada (públicos personalizados, intereses, geolocalización)",
+                            "item-4": "Optimización semanal para mejorar resultados",
+                            "item-5": "Reporte mensual con métricas clave (clics, impresiones, interacciones)"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Intermedio",
+                    "precio": 650,
+                    "lista":[
+                        {
+                            "item-1": "2 campañas de publicidad (tráfico, conversiones, engagement)",
+                            "item-2": "Hasta 6 anuncios (imágenes, videos, Reels)",
+                            "item-3": "Segmentación avanzada con audiencias personalizadas y Lookalike Audience",
+                            "item-4": "A/B Testing de anuncios para optimización",
+                            "item-5": "Optimización diaria de presupuesto y rendimiento",
+                            "item-6": "Reporte quincenal con recomendaciones y métricas"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Avanzado",
+                    "precio": 950,
+                    "lista":[
+                        {
+                            "item-1": "3 campañas de publicidad (remarketing, tráfico, conversiones)",
+                            "item-2": "Hasta 10 anuncios optimizados para Instagram y Facebook (Reels, Stories, carrusel, video)",
+                            "item-3": "Segmentación ultra-avanzada (audiencias Lookalike, públicos personalizados, geolocalización avanzada)",
+                            "item-4": "Configuración de Facebook Pixel para medir eventos clave y conversiones",
+                            "item-5": "Optimización avanzada con pruebas A/B y ajustes constantes",
+                            "item-6": "Reporte semanal con métricas detalladas y ajustes estratégicos"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "titulo": "Empresarial",
+                    "precio": 1350,
+                    "lista":[
+                        {
+                            "item-1": "4 campañas de publicidad (tráfico, remarketing, conversión, engagement)",
+                            "item-2": "Hasta 12 anuncios optimizados en varios formatos (Reels, Stories, video, carrusel)",
+                            "item-3": "Segmentación ultra-avanzada (audiencias Lookalike, públicos personalizados, geolocalización avanzada)",
+                            "item-4": "Optimización diaria con herramientas de inteligencia artificial",
+                            "item-5": "Remarketing dinámico para productos y servicios específicos",
+                            "item-6": "Consultoría mensual para ajustar la estrategia de publicidad",
+                            "item-7": "Reporte semanal con recomendaciones avanzadas y análisis en profundidad"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/tiktok-brands-solid.svg",
+            "iconoAlt": "icono del simbolo de tiktok",
+            "titulo":[
+                {
+                    "span-1": "Publicidad en",
+                    "span-2": "TikTok Ads"
+                }
+            ],
+            "content":[
+                {
+                    "parrafo-1": "Desarrollamos campañas visuales e impactantes en Instagram, diseñadas para captar la atención de tu audiencia objetivo.",
+                    "parrafo-2": "Usamos segmentación precisa y formatos atractivos para aumentar el engagement y las conversiones, aprovechando el poder visual de esta plataforma."
+                }
+            ],
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Inicial",
+                    "precio": 400,
+                    "lista":[
+                        {
+                            "item-1": "1 campaña publicitaria optimizada para generar awareness o engagement",
+                            "item-2": "Hasta 3 anuncios en formato video corto (15-30 segundos)",
+                            "item-3": "Segmentación avanzada (comportamiento de usuario, intereses específicos, hashtags populares)",
+                            "item-4": "Optimización semanal para mejorar rendimiento",
+                            "item-5": "Integración de CTA (Call to Action) atractivo en los anuncios",
+                            "item-6": "Reporte mensual con métricas clave (impresiones, clics, engagement)"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Avanzado",
+                    "precio": 750,
+                    "lista":[
+                        {
+                            "item-1": "2 campañas publicitarias (tráfico y engagement)",
+                            "item-2": "Hasta 5 anuncios en video (formato horizontal y vertical, optimizados para TikTok)",
+                            "item-3": "Segmentación ultra-avanzada (públicos personalizados, Lookalike Audience, y hashtags de tendencias)",
+                            "item-4": "A/B Testing para mejorar la eficacia de los anuncios",
+                            "item-5": "Optimización diaria para mejorar conversiones",
+                            "item-6": "Remarketing básico para usuarios que han interactuado con la marca",
+                            "item-7": "Reporte quincenal con métricas detalladas y recomendaciones de mejora"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Pro",
+                    "precio": 1150,
+                    "lista":[
+                        {
+                            "item-1": "3 campañas publicitarias (conversiones, engagement, y remarketing)",
+                            "item-2": "Hasta 8 anuncios (video en Reels, carruseles, y efectos visuales de TikTok)",
+                            "item-3": "Segmentación ultra-avanzada (públicos personalizados, Lookalike Audience, y hashtags de tendencias)",
+                            "item-4": "Optimización avanzada diaria con pruebas A/B",
+                            "item-5": "Remarketing dinámico para captar a usuarios que interactuaron con los anuncios pero no realizaron la conversión",
+                            "item-6": "Integración con Pixel de TikTok para medir conversiones y eventos clave",
+                            "item-7": "Reporte semanal con métricas avanzadas y recomendaciones estratégicas"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "titulo": "Empresarial",
+                    "precio": 1600,
+                    "lista":[
+                        {
+                            "item-1": "4 campañas publicitarias (engagement, tráfico, conversiones, remarketing dinámico)",
+                            "item-2": "Hasta 12 anuncios (formato vertical, horizontal, video interactivo, y uso de efectos virales)",
+                            "item-3": "Segmentación premium (públicos personalizados, Lookalike Audience, segmentación por comportamiento y hashtags)",
+                            "item-4": "Optimización diaria avanzada con inteligencia artificial y análisis de datos",
+                            "item-5": "Remarketing avanzado para captar usuarios que interactuaron pero no convirtieron",
+                            "item-6": "Integración completa con el Pixel de TikTok para seguimiento de eventos y conversiones",
+                            "item-7": "Consultoría mensual con análisis estratégico y ajuste de campañas",
+                            "item-8": "Reporte semanal con análisis detallado y recomendaciones tácticas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/youtube-brands-solid.svg",
+            "iconoAlt": "icono del simbolo de youtube",
+            "titulo":[
+                {
+                    "span-1": "YouTube",
+                    "span-2": "Ads"
+                }
+            ],
+            "content":[
+                {
+                    "parrafo-1": "Impulsa tu presencia en YouTube con campañas diseñadas para captar la atención desde el primer segundo.",
+                    "parrafo-2": "En Inmedia Marketing Web, optimizamos cada anuncio para que llegue a la audiencia adecuada, maximizando tus conversiones y retorno de inversión."
+                }
+            ],
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": "700",
+                    "lista":[
+                        {
+                            "item-1": "1 campaña de video en YouTube Ads",
+                            "item-2": "Hasta 2 anuncios de video (duración de 15 a 30 segundos)",
+                            "item-3": "Segmentación básica (edad, ubicación, intereses generales)",
+                            "item-4": "Optimización semanal para mejorar el rendimiento",
+                            "item-5": "Anuncios en formato TrueView (anuncios que el usuario puede omitir)",
+                            "item-6": "Reporte mensual con métricas clave (visualizaciones, impresiones, clics)"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Avanzado",
+                    "precio": "1200",
+                    "lista":[
+                        {
+                            "item-1": "2 campañas de video en YouTube Ads (branding y tráfico)",
+                            "item-2": "Hasta 4 anuncios de video (de 15 a 45 segundos)",
+                            "item-3": "Segmentación avanzada (intereses específicos, comportamiento de usuarios)",
+                            "item-4": "Optimización diaria basada en visualizaciones, tiempo de reproducción y conversiones",
+                            "item-5": "Anuncios en formato TrueView y Bumper Ads (anuncios cortos de 6 segundos no saltables)",
+                            "item-6": "A/B Testing para mejorar las conversiones",
+                            "item-7": "Reporte quincenal con métricas detalladas y recomendaciones de mejora"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Avanzado",
+                    "precio": "2000",
+                    "lista":[
+                        {
+                            "item-1": "3 campañas de video en YouTube Ads (conversión, retargeting, y branding)",
+                            "item-2": "Hasta 6 anuncios de video (de 15 a 60 segundos, en formatos TrueView, Bumper Ads, y anuncios de display en YouTube)",
+                            "item-3": "Segmentación ultra-avanzada (Lookalike Audiences, retargeting dinámico)",
+                            "item-4": "Optimización diaria avanzada con pruebas A/B y ajustes continuos",
+                            "item-5": "Remarketing de video para volver a atraer a los usuarios que interactuaron previamente con los anuncios",
+                            "item-6": "Consultoría mensual para ajustar la estrategia de video marketing y optimizar las campañas",
+                            "item-7": "Reporte semanal con análisis detallado del rendimiento y recomendaciones estratégicas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/bullhorn-solid.svg",
+            "iconoAlt": "icono de megafono",
+            "titulo":[
+                {
+                    "span-1": "Publicidad",
+                    "span-2": "programática"
+                }
+            ],
+            "content":[
+                {
+                    "parrafo-1": "Utilizamos tecnología programática para automatizar la compra de anuncios en múltiples plataformas digitales.",
+                    "parrafo-2": "Esto garantiza que tus anuncios se muestren en los sitios más relevantes, maximizando la eficiencia de la inversión publicitaria."
+                }
+            ],
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": "650",
+                    "lista":[
+                        {
+                            "item-1": "1 campaña programática en canales clave (Google Display, redes sociales, o sitios web específicos)",
+                            "item-2": "Hasta 3 anuncios en formatos visuales y de video (display ads, banners, video corto)",
+                            "item-3": "Segmentación básica por demografía, intereses y comportamiento de navegación",
+                            "item-4": "Optimización semanal basada en rendimiento y CTR (Click-Through Rate)",
+                            "item-5": "Acceso a reportes de rendimiento con métricas clave (impresiones, clics, tasa de conversión)",
+                            "item-6": "Duración de la campaña: 30 días"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Avanzado",
+                    "precio": "1200",
+                    "lista":[
+                        {
+                            "item-1": "2 campañas programáticas en múltiples canales (Google Display, redes de video, redes sociales, y sitios premium)",
+                            "item-2": "Hasta 5 anuncios en diferentes formatos (banners interactivos, anuncios de video, y anuncios en aplicaciones móviles)",
+                            "item-3": "Segmentación avanzada basada en comportamiento, intereses, retargeting y Lookalike Audience",
+                            "item-4": "Optimización diaria para maximizar el impacto y el ROI",
+                            "item-5": "Acceso a herramientas de análisis en tiempo real para ajustar el presupuesto y las estrategias",
+                            "item-6": "Reporte quincenal con métricas detalladas de rendimiento y recomendaciones",
+                            "item-7": "Duración de la campaña: 45 días"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Premium",
+                    "precio": "1800",
+                    "lista":[
+                        {
+                            "item-1": "3 campañas programáticas con distribución en varios formatos y plataformas (video, display, nativo, CTV - Connected TV)",
+                            "item-2": "Hasta 10 anuncios optimizados para diferentes canales y dispositivos (banners dinámicos, video interactivo, nativo)",
+                            "item-3": "Segmentación ultra-avanzada con datos en tiempo real, Lookalike Audience, retargeting dinámico, y geolocalización",
+                            "item-4": "Inteligencia artificial para optimización automática de anuncios y presupuesto en tiempo real",
+                            "item-5": "Acceso a plataformas DSP premium (Demand-Side Platforms) para acceder a los mejores espacios publicitarios",
+                            "item-6": "Reporte semanal con análisis profundo del rendimiento y recomendaciones estratégicas",
+                            "item-7": "Consultoría mensual para ajustar la estrategia programática y optimizar el ROI",
+                            "item-8": "Duración de la campaña: 60 días"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/repeat-solid.svg",
+            "iconoAlt": "icono de repetir",
+            "titulo":[
+                {
+                    "span-1": "Remarketing",
+                    "span-2": "avanzado"
+                }
+            ],
+            "content":[
+                {
+                    "parrafo-1": "Utilizamos tecnología programática para automatizar la compra de anuncios en múltiples plataformas digitales.",
+                    "parrafo-2": "Esto garantiza que tus anuncios se muestren en los sitios más relevantes, maximizando la eficiencia de la inversión publicitaria."
+                }
+            ],
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": "400",
+                    "lista":[
+                        {
+                            "item-1": "1 campaña de remarketing en plataformas clave (Google Display, Facebook Ads o Instagram Ads)",
+                            "item-2": "Hasta 3 anuncios personalizados en formato visual (banners o imágenes)",
+                            "item-3": "Segmentación de audiencias basada en comportamiento (usuarios que visitaron el sitio web o interactuaron con anuncios)",
+                            "item-4": "Configuración de Pixel (Google Analytics o Facebook Pixel) para seguir conversiones",
+                            "item-5": "Optimización semanal basada en el comportamiento de los usuarios",
+                            "item-6": "Reporte mensual con métricas clave (impresiones, clics, conversiones)"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Avanzado",
+                    "precio": "850",
+                    "lista":[
+                        {
+                            "item-1": "2 campañas de remarketing en Google, Facebook, Instagram o TikTok",
+                            "item-2": "Hasta 5 anuncios personalizados (banners dinámicos, anuncios en video o carruseles)",
+                            "item-3": "Segmentación avanzada basada en comportamiento (usuarios que añadieron productos al carrito, visualizaron productos específicos, pero no compraron)",
+                            "item-4": "Audiencias Lookalike para llegar a usuarios similares a los que ya interactuaron con la marca",
+                            "item-5": "Optimización diaria para mejorar el rendimiento de los anuncios",
+                            "item-6": "Remarketing dinámico con productos específicos (si se aplica a ecommerce)",
+                            "item-7": "Reporte quincenal con métricas detalladas y recomendaciones de mejora"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Premium",
+                    "precio": "1500",
+                    "lista":[
+                        {
+                            "item-1": "3 campañas de remarketing distribuidas en múltiples plataformas (Google Display, YouTube Ads, Facebook, Instagram, TikTok)",
+                            "item-2": "Hasta 8 anuncios personalizados (banners dinámicos, videos personalizados, carruseles de productos)",
+                            "item-3": "Segmentación ultra-avanzada con retargeting dinámico basado en acciones específicas (usuarios que añadieron productos al carrito, completaron formularios o visitaron páginas clave)",
+                            "item-4": "Segmentación por fases del funnel de ventas (usuarios que solo visitaron la web vs. usuarios que interactuaron pero no compraron)",
+                            "item-5": "Optimización diaria avanzada con pruebas A/B en anuncios y ajustes de presupuesto",
+                            "item-6": "Remarketing dinámico avanzado para ecommerce (productos relacionados y personalizados)",
+                            "item-7": "Integración completa del Pixel para seguimiento de conversiones en tiempo real",
+                            "item-8": "Consultoría mensual para optimizar la estrategia de remarketing y ajustar la segmentación",
+                            "item-9": "Reporte semanal con análisis detallado del rendimiento y recomendaciones estratégicas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "faq":[
+        {
+            "id": 1,
+            "titulo": "¿Quieres que te vean más?",
+            "respuesta":[
+                {
+                    "parrafo-1": "No se trata solo de aparecer, sino de ser visto por quienes están listos para comprar.",
+                    "parrafo-2": "En un mundo digital saturado, te ponemos frente a la audiencia correcta, en los canales más relevantes.",
+                    "parrafo-3": "Aumenta tu presencia y asegúrate de que cada anuncio sea una oportunidad de venta."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "¿Por qué tu competencia te supera?",
+            "respuesta":[
+                {
+                    "parrafo-1": "El éxito de la publicidad digital no está en lanzar anuncios sin rumbo.",
+                    "parrafo-2": "Está en optimizar cada detalle, probar lo que funciona, y ajustar lo que no.",
+                    "parrafo-3": "Mientras otros queman presupuesto, nosotros maximizamos cada sol invertido.",
+                    "parrafo-4": "Te ayudamos a no solo competir, sino a superar a tu competencia con tácticas probadas."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "¿Preocupado por no sacarle provecho a tu inversión?",
+            "respuesta":[
+                {
+                    "parrafo-1": "Nuestro enfoque está en optimizar tu retorno de inversión (ROI).",
+                    "parrafo-2": "Analizamos y ajustamos continuamente tus campañas para asegurarnos de que cada céntimo que gastes sea una inversión inteligente.",
+                    "parrafo-3": "No desperdiciamos tu presupuesto, lo potenciamos."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "¿Quieres mantener a tus clientes fieles?",
+            "respuesta":[
+                {
+                    "parrafo-1": "No basta con que te elijan una vez.",
+                    "parrafo-2": "Con nuestras campañas de remarketing, mantendrás a tus clientes siempre atentos a tus ofertas, regresando por más.",
+                    "parrafo-3": "Si ya te eligieron una vez, podemos hacer que te sigan eligiendo una y otra vez."
+                }
+            ]
+        }
+    ]
+}

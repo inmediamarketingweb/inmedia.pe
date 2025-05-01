@@ -1,0 +1,307 @@
+{
+    "servicios":[
+        {
+            "id": 1,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/robot-solid.svg",
+            "iconoAlt": "icono de la cebeza de un robot",
+            "titulo":[
+                {
+                    "span-1": "Chatbot de atención",
+                    "span-2": "al cliente"
+                }
+            ],
+            "texto": "Soluciones automatizadas que responden consultas frecuentes, gestionan problemas y ofrecen soporte 24/7 para mejorar la experiencia del cliente.",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": "499",
+                    "lista":[
+                        {
+                            "item-1": "Implementación de un chatbot en un canal (Instagram, Messenger, SMS, Correo electrónico, WhatsApp, o Telegram)",
+                            "item-2": "Respuestas automatizadas para hasta 50 preguntas frecuentes",
+                            "item-3": "Soporte 24/7 básico",
+                            "item-4": "Monitoreo y ajustes iniciales"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Avanzado",
+                    "precio": "1299",
+                    "lista":[
+                        {
+                            "item-1": "Implementación de un chatbot en un canal (Instagram, Messenger, SMS, Correo electrónico, WhatsApp, o Telegram)",
+                            "item-2": "Respuestas automatizadas para hasta 100 preguntas frecuentes",
+                            "item-3": "Soporte 24/7 básico avanzado con escalado a un agente humano",
+                            "item-4": "Monitoreo y ajustes iniciales"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Premium",
+                    "precio": "1999",
+                    "lista":[
+                        {
+                            "item-1": "Implementación de un chatbot en un canal (Instagram, Messenger, SMS, Correo electrónico, WhatsApp, o Telegram)",
+                            "item-2": "Respuestas automatizadas para hasta 150 preguntas frecuentes",
+                            "item-3": "Soporte 24/7 básico avanzado con escalado a un agente humano",
+                            "item-4": "Monitoreo y ajustes iniciales"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/robot-solid.svg",
+            "iconoAlt": "icono de la cebeza de un robot",
+            "titulo":[
+                {
+                    "span-1": "Chatbot de generación",
+                    "span-2": "de leads"
+                }
+            ],
+            "texto": "Chatbots diseñados para captar información de usuarios interesados, guiarlos a través del embudo de ventas y calificar prospectos automáticamente.",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": "999",
+                    "lista":[
+                        {
+                            "item-1": "Implementación de un chatbot de generación de leads en un canal",
+                            "item-2": "Flujos de conversación para captación de datos básicos de prospectos",
+                            "item-3": "Integración con CRM o hoja de cálculo",
+                            "item-4": "Reportes mensuales de leads generados"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Avanzado",
+                    "precio": "2499",
+                    "lista":[
+                        {
+                            "item-1": "Implementación de chatbots en tres canales (por ejemplo, WhatsApp, SMS, y Instagram)",
+                            "item-2": "Flujos de conversación avanzados con segmentación de prospectos",
+                            "item-3": "Integración avanzada con CRM y herramientas de marketing",
+                            "item-4": "Análisis y optimización mensual de la estrategia de captación"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Premium",
+                    "precio": "3999",
+                    "lista":[
+                        {
+                            "item-1": "Implementación de chatbots en cinco canales",
+                            "item-2": "Flujos de conversación avanzados con segmentación y cualificación de prospectos",
+                            "item-3": "Integración completa con CRM y herramientas de marketing",
+                            "item-4": "Análisis avanzado y optimización mensual"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/robot-solid.svg",
+            "iconoAlt": "icono de la cebeza de un robot",
+            "titulo":[
+                {
+                    "span-1": "Chatbot de",
+                    "span-2": "conversión y venta"
+                }
+            ],
+            "texto": "Chatbots diseñados para captar información de usuarios interesados, guiarlos a través del embudo de ventas y calificar prospectos automáticamente.",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": "699",
+                    "lista":[
+                        {
+                            "item-1": "Implementación de un chatbot de ventas en un canal",
+                            "item-2": "Flujos de conversación para recomendaciones de productos y cierre de ventas",
+                            "item-3": "Integración básica con la plataforma de e-commerce",
+                            "item-4": "Reportes de ventas mensuales"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Avanzado",
+                    "precio": "1999",
+                    "lista":[
+                        {
+                            "item-1": "Implementación de chatbots de ventas en tres canales (por ejemplo, WhatsApp, Instagram, y Correo electrónico)",
+                            "item-2": "Flujos de conversación avanzados con recomendaciones personalizadas",
+                            "item-3": "Integración avanzada con e-commerce y CRM",
+                            "item-4": "Monitoreo de rendimiento y optimización mensual"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Avanzado",
+                    "precio": "2999",
+                    "lista":[
+                        {
+                            "item-1": "Implementación de chatbots de ventas en cinco canales",
+                            "item-2": "Flujos de conversación avanzados con recomendaciones y promociones personalizadas",
+                            "item-3": "Integración completa con e-commerce, CRM, y herramientas de marketing",
+                            "item-4": "Análisis y optimización mensual exhaustiva"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/robot-solid.svg",
+            "iconoAlt": "icono de la cebeza de un robot",
+            "titulo":[
+                {
+                    "span-1": "Chatbot para retargeting",
+                    "span-2": "y seguimiento"
+                }
+            ],
+            "texto": "Bots que reenganchan a clientes potenciales que no completaron una compra o que mostraron interés en un producto, recordándoles ofertas y promociones.",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": "599",
+                    "lista":[
+                        {
+                            "item-1": "Implementación de un chatbot de retargeting en un canal",
+                            "item-2": "Flujos de conversación para recordar a los usuarios sobre productos abandonados en el carrito",
+                            "item-3": "Envío de notificaciones automáticas de ofertas y promociones",
+                            "item-4": "Reportes mensuales de reengagement"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Avanzado",
+                    "precio": "1399",
+                    "lista":[
+                        {
+                            "item-1": "Implementación de chatbots de ventas en tres canales (por ejemplo, WhatsApp, Instagram, y Correo electrónico)",
+                            "item-2": "Flujos de conversación avanzados para recuperación de carritos y seguimiento de interés de productos",
+                            "item-3": "Integración con email marketing y SMS para retargeting multicanal",
+                            "item-4": "Análisis de retargeting y optimización mensual"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Avanzado",
+                    "precio": "2499",
+                    "lista":[
+                        {
+                            "item-1": "Implementación de chatbots de retargeting en cinco canales",
+                            "item-2": "Flujos de conversación avanzados para seguimiento personalizado y recuperación de ventas",
+                            "item-3": "Integración completa con email marketing, SMS, y CRM para retargeting omnicanal",
+                            "item-4": "Análisis y optimización mensual detallada"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/robot-solid.svg",
+            "iconoAlt": "icono de la cebeza de un robot",
+            "titulo":[
+                {
+                    "span-1": "Chatbot",
+                    "span-2": "personalizado"
+                }
+            ],
+            "texto": "Desarrollo de chatbots ajustados a las necesidades específicas de cada empresa, adaptando el flujo de conversación a los objetivos comerciales.",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": "999",
+                    "lista":[
+                        {
+                            "item-1": "Desarrollo de un chatbot personalizado con flujos de conversación básicos adaptados a la empresa en un canal",
+                            "item-2": "Monitoreo y ajustes iniciales",
+                            "item-3": "Soporte técnico básico"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Avanzado",
+                    "precio": "2499",
+                    "lista":[
+                        {
+                            "item-1": "Desarrollo de un chatbot personalizado con flujos de conversación avanzados en tres canales",
+                            "item-2": "Integración con CRM y herramientas de marketing",
+                            "item-3": "Optimización mensual basada en análisis de rendimiento"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Avanzado",
+                    "precio": "3999",
+                    "lista":[
+                        {
+                            "item-1": "Desarrollo de un chatbot personalizado con flujos de conversación avanzados en cinco canales",
+                            "item-2": "Integración completa con CRM, herramientas de marketing y e-commerce",
+                            "item-3": "Optimización mensual avanzada basada en análisis de rendimiento"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    
+    "faq":[
+        {
+            "id": 1,
+            "titulo": "¿Qué tipo de negocios pueden beneficiarse de chatbots y ventas?",
+            "respuesta":[
+                {
+                    "parrafo-1": "Este servicio es ideal para todo tipo de negocios que deseen mejorar la atención al cliente y optimizar sus ventas online.",
+                    "parrafo-2": "Desde ecommerce hasta servicios profesionales, los chatbots son una herramienta versátil y efectiva."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "¿El chatbot puede realizar ventas directamente?",
+            "respuesta":[
+                {
+                    "parrafo-1": "Sí, en los paquetes avanzados y premium, los chatbots pueden procesar ventas automatizadas, gestionar pagos e incluso ofrecer productos personalizados basados en las preferencias del cliente."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "¿Es necesario tener un equipo técnico para usar este servicio?",
+            "respuesta":[
+                {
+                    "parrafo-1": "No es necesario. Nosotros nos encargamos de todo el proceso de desarrollo, integración y mantenimiento, por lo que no necesitas contar con un equipo técnico especializado."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "¡Transforma tus ventas con Chatbots hoy mismo!",
+            "respuesta":[
+                {
+                    "parrafo-1": "Optimiza la atención y el proceso de ventas en tu negocio con nuestras soluciones de chatbots y ventas.",
+                    "parrafo-2": "Solicita una consulta y descubre cómo podemos ayudarte a crecer de manera automatizada y eficiente."
+                }
+            ]
+        }
+    ]
+}

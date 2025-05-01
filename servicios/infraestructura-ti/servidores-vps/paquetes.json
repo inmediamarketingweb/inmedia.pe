@@ -1,0 +1,96 @@
+{
+    "paquetes":[
+        {
+            "id": 1,
+            "titulo": "VPS Inmedia 1",
+            "precio": "49",
+            "lista":[
+                {
+                    "item-1": "1 vCore CPU",
+                    "item-2": "25Gb SSD",
+                    "item-3": "1Gb RAM",
+                    "item-4": "Hasta 3 dominios",
+                    "item-5": "Incluye dominio .com",
+                    "item-6": "1Tb tráfico mensual",
+                    "item-7": "Hasta 3 cuentas de correo",
+                    "item-8": "Acceso a panel de administración",
+                    "item-9": "Acceso a root",
+                    "item-10": "Bases de datos ilimitadas",
+                    "item-11": "Subdominios ilimitados",
+                    "item-12": "Usuarios FTP ilimitados",
+                    "item-13": "Garantía del 99% del tiempo contratado en línea",
+                    "item-14": "Soporte por email y WhatsApp"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "VPS Inmedia 2",
+            "precio": "99",
+            "lista":[
+                {
+                    "item-1": "2 vCore CPU",
+                    "item-2": "80Gb SSD",
+                    "item-3": "2Gb RAM",
+                    "item-4": "Hasta 3 dominios",
+                    "item-5": "Incluye dominio .com",
+                    "item-6": "1Tb tráfico mensual",
+                    "item-7": "Hasta 3 cuentas de correo",
+                    "item-8": "Acceso a panel de administración",
+                    "item-9": "Acceso a root",
+                    "item-10": "Bases de datos ilimitadas",
+                    "item-11": "Subdominios ilimitados",
+                    "item-12": "Usuarios FTP ilimitados",
+                    "item-13": "Garantía del 99% del tiempo contratado en línea",
+                    "item-14": "Soporte por email y WhatsApp"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "VPS Inmedia 3",
+            "precio": "149",
+            "lista":[
+                {
+                    "item-1": "2 vCore CPU",
+                    "item-2": "120Gb SSD",
+                    "item-3": "4Gb RAM",
+                    "item-4": "Hasta 3 dominios",
+                    "item-5": "Incluye dominio .com",
+                    "item-6": "1Tb tráfico mensual",
+                    "item-7": "Hasta 3 cuentas de correo",
+                    "item-8": "Acceso a panel de administración",
+                    "item-9": "Acceso a root",
+                    "item-10": "Bases de datos ilimitadas",
+                    "item-11": "Subdominios ilimitados",
+                    "item-12": "Usuarios FTP ilimitados",
+                    "item-13": "Garantía del 99% del tiempo contratado en línea",
+                    "item-14": "Soporte por email y WhatsApp"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "VPS Inmedia 4",
+            "precio": "199",
+            "lista":[
+                {
+                    "item-1": "4 vCore CPU",
+                    "item-2": "160Gb SSD",
+                    "item-3": "8Gb RAM",
+                    "item-4": "Hasta 3 dominios",
+                    "item-5": "Incluye dominio .com",
+                    "item-6": "1Tb tráfico mensual",
+                    "item-7": "Hasta 3 cuentas de correo",
+                    "item-8": "Acceso a panel de administración",
+                    "item-9": "Acceso a root",
+                    "item-10": "Bases de datos ilimitadas",
+                    "item-11": "Subdominios ilimitados",
+                    "item-12": "Usuarios FTP ilimitados",
+                    "item-13": "Garantía del 99% del tiempo contratado en línea",
+                    "item-14": "Soporte por email y WhatsApp"
+                }
+            ]
+        }
+    ]
+}

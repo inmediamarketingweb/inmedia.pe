@@ -1,0 +1,160 @@
+{
+    "servicios":[
+        {
+            "id": 1,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/user-tie-solid.svg",
+            "iconoAlt": "icono de un nube",
+            "titulo":[
+                {
+                    "span-1": "Autónomos",
+                    "span-2": "gestión"
+                }
+            ],
+            "lista":[
+                {
+                    "item-1": "Facebook básico",
+                    "item-2": "Twitter básico",
+                    "item-3": "Publicaciones/noticias",
+                    "item-4": "Fotos y videos",
+                    "item-5": "Informe mensual",
+                    "itemt-6": "24/7 soporte email"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/building-solid.svg",
+            "iconoAlt": "icono de un nube",
+            "titulo":[
+                {
+                    "span-1": "MYPES",
+                    "span-2": "gestión"
+                }
+            ],
+            "lista":[
+                {
+                    "item-1": "Facebook MYPES",
+                    "item-2": "Twitter MYPES",
+                    "item-3": "Google + MYPES",
+                    "item-4": "Noticias, videos y fotos",
+                    "item-5": "Informe mensual",
+                    "itemt-6": "24/7 soporte WhatsApp"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/industry-solid.svg",
+            "iconoAlt": "icono de un nube",
+            "titulo":[
+                {
+                    "span-1": "Gestión",
+                    "span-2": "empresas"
+                }
+            ],
+            "lista":[
+                {
+                    "item-1": "Facebook empresas",
+                    "item-2": "Twitter empresas",
+                    "item-3": "Google + empresas",
+                    "item-4": "LinkedIn empresas",
+                    "item-5": "Youtube y más",
+                    "itemt-6": "24/7 móvil + WhatsApp"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/at-solid.svg",
+            "iconoAlt": "icono de un nube",
+            "titulo":[
+                {
+                    "span-1": "Personalizado",
+                    "span-2": "redes"
+                }
+            ],
+            "lista":[
+                {
+                    "item-1": "Personalizado LinkedIn",
+                    "item-2": "Personalizado Twitter",
+                    "item-3": "Personalizado Facebook",
+                    "item-4": "Personalizado Google",
+                    "item-5": "Personalizado redes",
+                    "itemt-6": "Muchos más servicios"
+                }
+            ]
+        }
+    ],
+
+    "faq":[
+        {
+            "id": 1,
+            "titulo": "Campaña inicial para conseguir seguidores",
+            "respuestas":[
+                {
+                    "parrafo-1": "S/.590",
+                    "parrafo-2": "Recomendado"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Creación y configuración inicial de red social",
+            "respuestas":[
+                {
+                    "parrafo-1": "S/.90",
+                    "parrafo-2": "Pago único"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Alta o actualización de ficha en MyBusiness",
+            "respuestas":[
+                {
+                    "parrafo-1": "S/.90",
+                    "parrafo-2": "Pago único"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "Gestión Google MyBusiness",
+            "respuestas":[
+                {
+                    "parrafo-1": "S/.90",
+                    "parrafo-2": "Pago mensual"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "titulo": "Configuración Instagram Shopping",
+            "respuestas":[
+                {
+                    "parrafo-1": "S/.45",
+                    "parrafo-2": "Pago único"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "titulo": "Configuración Instagram Shopping",
+            "respuestas":[
+                {
+                    "parrafo-1": "S/.139",
+                    "parrafo-2": "Pago mensual (3 hisorias por semana)"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "titulo": "Bono 10 publicaciones extra",
+            "respuestas":[
+                {
+                    "parrafo-1": "S/.159"
+                }
+            ]
+        }
+    ]
+}

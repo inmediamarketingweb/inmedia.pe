@@ -1,0 +1,91 @@
+{
+    "portafolio":[
+        {
+            "proyectos":[
+                {
+                    "id": 1,
+                    "etiqueta": "diseno-web",
+                    "imagen": "./Imagenes/dormihogar.jpg",
+                    "titulo": "dormihogar.pe",
+                    "texto": "Sitio web para empresa de colchones"
+                },
+                {
+                    "id": 2,
+                    "etiqueta": "diseno-web",
+                    "imagen": "./Imagenes/homesleep.jpg",
+                    "titulo": "homesleep.pe",
+                    "texto": "Sitio web para empresa de colchones"
+                },
+                {
+                    "id": 3,
+                    "etiqueta": "diseno-web",
+                    "imagen": "./Imagenes/kamas.jpg",
+                    "titulo": "kamas.pe",
+                    "texto": "Sitio web para empresa de colchones"
+                },
+                {
+                    "id": 4,
+                    "etiqueta": "diseno-web",
+                    "imagen": "./Imagenes/vitai.jpg",
+                    "titulo": "Vitai",
+                    "texto": "Sitio web para empresa de colchones"
+                },
+                {
+                    "id": 5,
+                    "etiqueta": "diseno-grafico",
+                    "imagen": "https://inmedia.pe/Imagenes/fondo-web.jpg",
+                    "titulo": "Diseño gráfico",
+                    "texto": "Servicio de diseño gráfico"
+                },
+                {
+                    "id": 6,
+                    "etiqueta": "diseno-web",
+                    "imagen": "./Imagenes/dormihogar.jpg",
+                    "titulo": "Vitai",
+                    "texto": "Sitio web para empresa de colchones"
+                },
+                {
+                    "id": 7,
+                    "etiqueta": "diseno-web",
+                    "imagen": "./Imagenes/kamas.jpg",
+                    "titulo": "Vitai",
+                    "texto": "Sitio web para empresa de colchones"
+                }
+            ]
+        },
+        {
+            "video-marketing":[
+                {
+                    "id": 1,
+                    "link": "https://www.youtube.com/embed/zONx98Xwlck",
+                    "titulo": "Video 1",
+                    "etiqueta": "video"
+                },
+                {
+                    "id": 2,
+                    "link": "https://www.youtube.com/embed/i4yceBbl5nA",
+                    "titulo": "Video 2",
+                    "etiqueta": "short"
+                },
+                {
+                    "id": 3,
+                    "link": "https://www.youtube.com/embed/zONx98Xwlck",
+                    "titulo": "Video 1",
+                    "etiqueta": "video"
+                },
+                {
+                    "id": 4,
+                    "link": "https://www.youtube.com/embed/zONx98Xwlck",
+                    "titulo": "Video 1",
+                    "etiqueta": "video"
+                },
+                {
+                    "id": 5,
+                    "link": "https://www.youtube.com/embed/zONx98Xwlck",
+                    "titulo": "Video 1",
+                    "etiqueta": "video"
+                }
+            ]
+        }
+    ]
+}

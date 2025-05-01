@@ -1,0 +1,40 @@
+{
+    "servicios":[
+        {
+            "id": 1,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/cloud-solid.svg",
+            "iconoAlt": "icono de un nube",
+            "titulo":[
+                {
+                    "span-1": "Hosting",
+                    "span-2": "y dominio"
+                }
+            ],
+            "link": "https://inmedia.pe/servicios/infraestructura-ti/hosting-y-dominio/"
+        },
+        {
+            "id": 2,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/server-solid.svg",
+            "iconoAlt": "icono de un servidor",
+            "titulo":[
+                {
+                    "span-1": "Servidores",
+                    "span-2": "VPS"
+                }
+            ],
+            "link": "https://inmedia.pe/servicios/infraestructura-ti/servidores-vps/"
+        },
+        {
+            "id": 3,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/database-solid.svg",
+            "iconoAlt": "icono de una base de datos",
+            "titulo":[
+                {
+                    "span-1": "Servidores",
+                    "span-2": "dedicados"
+                }
+            ],
+            "link": "https://inmedia.pe/servicios/infraestructura-ti/servidores-dedicados/"
+        }
+    ]
+}

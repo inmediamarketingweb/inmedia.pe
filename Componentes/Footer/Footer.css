@@ -1,0 +1,153 @@
+footer{
+    background: var(--footer);
+}
+
+.footer > img{
+    width: auto;
+    height: 50px;
+    object-fit: contain;
+}
+
+.footer p{
+    color: var(--white);
+}
+
+.footer a{
+    color: var(--white);
+}
+
+.footer-form{
+    width: 100%;
+}
+
+.footer-form input{
+    width: 100%;
+    height: 50px;
+    padding: 0 20px;
+    border: 0;
+    outline: 0;
+    background: #3F3F3F;
+    color: var(--white);
+}
+
+.footer-form input::placeholder{
+    color: var(--white);
+}
+
+.footer-bottom-container{
+    background: var(--footer-bottom);
+}
+
+#footer-pages .top-links li a i,
+#footer-pages .top-links li a h2{
+    color: var(--white);
+}
+
+#footer-pages .top-links li a:hover i,
+#footer-pages .top-links li a:hover h2{
+    color: var(--white);
+}
+
+/**/
+
+.footer-flags li img{
+    object-fit: contain;
+    aspect-ratio: 1/1;
+    width: 40px !important;
+    height: 40px !important;
+}
+
+.footer-flags li div{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+/**/
+
+.footer-modal-container{
+    position: fixed;
+    right: -390px;
+    bottom: 100px;
+    width: 100%;
+    max-width: 350px;
+    background: var(--white);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 15px #00000075;
+    transition: all 200ms linear;
+}
+
+.footer-modal-container.active{
+    right: 20px;
+}
+
+.footer-modal{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    color: var(--blue);
+    position: relative;
+    gap: 10px;
+    padding: 20px;
+}
+
+.footer-modal::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 4px;
+    background: var(--light-blue);
+    transition: all 3s linear;
+}
+
+.footer-modal-container.active .footer-modal::before{
+    width: 100%;
+}
+
+.footer-modal .fa-bell{
+    font-size: 25px;
+}
+
+.footer-modal .fa-xmark{
+    margin-left: auto;
+    opacity: 0.5;
+    transition: var(--t-100ms);
+    color: var(--blue);
+}
+
+.footer-modal .fa-xmark:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+
+/**/
+
+@media screen and (max-width:600px){
+    .footer-bottom-container section{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .footer-bottom-container section ul{
+        width: 100%;
+        flex-direction: column;
+        justify-content: left;
+    }
+    .footer-bottom-container section ul li{
+        width: 100%;
+    }
+    #footer-pages{
+        width: 100%;
+    }
+    #footer-pages ul{
+        width: 100%;
+    }
+    #footer-pages ul li{
+        width: 100%;
+        display: flex;
+    }
+}

@@ -1,0 +1,58 @@
+.quote-modal-container{
+    position: fixed;
+    right: -390px;
+    bottom: 100px;
+    width: 100%;
+    max-width: 350px;
+    background: var(--white);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 15px #00000075;
+    transition: all 200ms linear;
+}
+
+.quote-modal-container.active{
+    right: 20px;
+}
+
+.quote-modal{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    color: var(--blue);
+    position: relative;
+    gap: 10px;
+    padding: 20px;
+}
+
+.quote-modal::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 4px;
+    background: var(--light-blue);
+    transition: all 5s linear;
+}
+
+.quote-modal-container.active .quote-modal::before{
+    width: 100%;
+}
+
+.quote-modal .fa-bell{
+    font-size: 25px;
+}
+
+.quote-modal .fa-xmark{
+    margin-left: auto;
+    opacity: 0.5;
+    transition: var(--t-100ms);
+    color: var(--blue);
+}
+
+.quote-modal .fa-xmark:hover{
+    cursor: pointer;
+    opacity: 1;
+}

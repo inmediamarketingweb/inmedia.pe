@@ -1,0 +1,1088 @@
+{
+    "servicios":[
+        {
+            "id": 1,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/bullhorn-solid.svg",
+            "iconoAlt": "icono de megafono",
+            "titulo": [
+                {
+                    "span-1": "Landing page para",
+                    "span-2": "campañas de marketing"
+                }
+            ],
+            "texto": "Páginas de aterrizaje optimizadas para campañas específicas, diseñadas para capturar leads y maximizar la conversión.",
+            
+            "paquetes": [
+                {
+                    "id": 1,
+                    "titulo": "Landing básica",
+                    "precio": "290",
+                    "lista": [
+                        {
+                            "item-1": "1 página de aterrizaje",
+                            "item-2": "Diseño responsive",
+                            "item-3": "Formulario básico",
+                            "item-4": "1 imagen recortada",
+                            "item-5": "Integración de Google Analytics",
+                            "item-6": "Certificado SSL",
+                            "item-7": "10 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Landing avanzada",
+                    "precio": "390",
+                    "lista": [
+                        {
+                            "item-1": "2 páginas de aterrizaje",
+                            "item-2": "Diseño responsive y SEO básico",
+                            "item-3": "Formulario avanzado",
+                            "item-4": "1 imagen recortada",
+                            "item-5": "Slider con hasta 3 imagénes",
+                            "item-6": "Integración de herramientas de email marketing",
+                            "item-7": "Certificado SSL",
+                            "item-8": "20 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Landing premium",
+                    "precio": "490",
+                    "lista": [
+                        {
+                            "item-1": "3 páginas de aterrizaje",
+                            "item-2": "Diseño responsive y SEO avanzado",
+                            "item-3": "Formulario con lógica condicional",
+                            "item-4": "1 imagen recortada",
+                            "item-5": "Slider con hasta 5 imagénes o videos",
+                            "item-6": "Integración con CRM y Google Analytics",
+                            "item-7": "Certificado SSL",
+                            "item-8": "30 correos corporativos"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/envelope-circle-check-solid.svg",
+            "iconoAlt": "icono de correo con notificacion",
+            "titulo": [
+                {
+                    "span-1": "Web de comercio",
+                    "span-2": "electrónico avanzado"
+                }
+            ],
+            "texto": "Tiendas online con funciones avanzadas como integración de pagos, seguimiento de inventario y recomendaciones de productos personalizadas para maximizar tus ventas.",
+            
+            "paquetes": [
+                {
+                    "id": 1,
+                    "titulo": "Negocio",
+                    "precio": "890",
+                    "lista": [
+                        {
+                            "item-1": "Catálogo ilimitado",
+                            "item-2": "Carrito de compras",
+                            "item-3": "Manejador de contenido",
+                            "item-4": "Diseño personalizado",
+                            "item-5": "Optimizado para móvil",
+                            "item-6": "Manejo de inventario",
+                            "item-7": "Crear códigos de descuento",
+                            "item-8": "Definir precios de envíos por zona",
+                            "item-9": "Módulos de administración y backoffice",
+                            "item-10": "Módulos de pagos",
+                            "item-11": "Registro de usuario",
+                            "item-12": "Certificado SSL",
+                            "item-13": "Hasta 8 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Empresarial",
+                    "precio": "1490",
+                    "lista": [
+                        {
+                            "item-1": "Catálogo ilimitado",
+                            "item-2": "Carrito de compras",
+                            "item-3": "Manejador de contenido",
+                            "item-4": "Venta de servicios con sistema de reserva online Booking",
+                            "item-5": "Diseño personalizado",
+                            "item-6": "Optimización SEO Lite",
+                            "item-7": "Posicionamiento en buscadores",
+                            "item-8": "Módulos de administración y backoffice",
+                            "item-9": "Crear códigos de descuento",
+                            "item-10": "Integración de Blog",
+                            "item-11": "Definir precios de envíos por zonas",
+                            "item-13": "Certificado SSL",
+                            "item-14": "Hasta 18 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "A medida",
+                    "precio": "2290",
+                    "lista": [
+                        {
+                            "item-1": "Catálogo ilimitado",
+                            "item-2": "Carrito de compras",
+                            "item-3": "Manejador de contenido",
+                            "item-4": "Venta de servicios con sistema de reserva online Booking",
+                            "item-5": "Diseño personalizado",
+                            "item-6": "Optimización SEO avanzado",
+                            "item-7": "Posicionamiento en buscadores",
+                            "item-8": "Diseño de blog profesional",
+                            "item-9": "Boletín de novedades para usuarios registrados",
+                            "item-10": "Integración de Google Analytics",
+                            "item-11": "Módulos de inventarios y servicio courier",
+                            "item-13": "Certificado SSL",
+                            "item-14": "Correos corporativos ilimitados"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/grip-vertical-solid.svg",
+            "iconoAlt": "icono de grilla vertical",
+            "titulo": [
+                {
+                    "span-1": "Página web de",
+                    "span-2": "catálogo en línea"
+                }
+            ],
+            "texto": "Muestra tus productos de manera profesional sin necesidad de pagos online. Ideal para gestionar pedidos y consultas directamente con los clientes.",
+            
+            "paquetes": [
+                {
+                    "id": 1,
+                    "titulo": "Negocio",
+                    "precio": "790",
+                    "lista": [
+                        {
+                            "item-1": "Catálogo ilimitado",
+                            "item-2": "Módulos de administración y backoffice",
+                            "item-3": "Galería de productos por categorías",
+                            "item-4": "Diseño personalizado",
+                            "item-5": "Optimizado para móvil",
+                            "item-6": "Manejo de inventario",
+                            "item-7": "Definir precios de envío por zonas",
+                            "item-8": "Manual de usuario para el sistema de comercio electrónico",
+                            "item-9": "Módulo de administración de productos por categorías",
+                            "item-10": "Optimización SEO Lite",
+                            "item-11": "Integración a Google Maps",
+                            "item-12": "Botones para redes sociales",
+                            "item-13": "Botón a WhatsApp",
+                            "item-14": "Formulario de contacto",
+                            "item-15": "Certificado SSL",
+                            "item-16": "Hasta 8 correos corporativos",
+                            "item-17": "Soporte básico incluido"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Empresarial",
+                    "precio": "1390",
+                    "lista": [
+                        {
+                            "item-1": "Catálogo ilimitado",
+                            "item-2": "Módulos de administración y backoffice",
+                            "item-3": "Galería de productos por categorías",
+                            "item-4": "Filtro de productos por categorias",
+                            "item-5": "Diseño personalizado",
+                            "item-6": "Optimizado para móvil",
+                            "item-7": "Optimización SEO Lite",
+                            "item-8": "Posicionamiento en buscadores",
+                            "item-9": "Manejo de inventarios",
+                            "item-10": "Definir precios de envío por zonas",
+                            "item-11": "Manual de usuario para el sistema de comercio electrónico",
+                            "item-12": "Certificado SSL",
+                            "item-13": "Hasta 18 correos corporativos",
+                            "item-14": "Soporte avanzado y atención prioritaria"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "A medida",
+                    "precio": "2190",
+                    "lista": [
+                        {
+                            "item-1": "Catálogo ilimitado",
+                            "item-2": "Módulos de administración y backoffice",
+                            "item-3": "Galería de productos por categorías",
+                            "item-4": "Filtro de productos personalizado",
+                            "item-5": "Múltiples idiomas",
+                            "item-6": "Múltiples monedas",
+                            "item-7": "Diseño altamente personalizado",
+                            "item-8": "Optimizado para móvil",
+                            "item-9": "Certificado de seguridad",
+                            "item-10": "Optimización SEO avanzada",
+                            "item-11": "Módulos de inventarios y servicio courier",
+                            "item-12": "Boletín de novedades para usuarios registrados",
+                            "item-13": "Manejo de inventarios",
+                            "item-14": "Crear códigos de descuento",
+                            "item-15": "Definir precios de envío por zonas",
+                            "item-16": "Integración con servicio courier",
+                            "item-17": "Manual de usuario para el sistema de comercio electrónico",
+                            "item-18": "Certificado de seguridad SSL",
+                            "item-19": "Correos corporativos ilimitados",
+                            "item-20": "Soporte premium y asesoría personalizada"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/at-solid.svg",
+            "iconoAlt": "icono de arroba",
+            "titulo": [
+                {
+                    "span-1": "Página web",
+                    "span-2": "corporativa"
+                }
+            ],
+            "texto": "Refuerza la presencia de tu empresa online mostrando tu identidad, misión y servicios de forma profesional.",
+            
+            "paquetes": [
+                {
+                    "id": 1,
+                    "titulo": "Estándar",
+                    "precio": "490",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 8 secciones / páginas",
+                            "item-2": "Manejador de contenido",
+                            "item-3": "Optmización SEO Lite",
+                            "item-4": "Banner de portada",
+                            "item-5": "Galería imágenes de servicios y productos",
+                            "item-6": "Diseño responsivo",
+                            "item-7": "Manual de administración de página web",
+                            "item-8": "Integración a Google maps",
+                            "item-9": "Formulario de contacto",
+                            "item-10": "Certificado de seguridad SSL",
+                            "item-11": "Hasta 6 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Empresarial",
+                    "precio": "990",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 8 secciones / páginas",
+                            "item-2": "Boletín de últimos acontecimientos",
+                            "item-3": "Optmización SEO Lite",
+                            "item-4": "Banner de portada con imágenes deslizables",
+                            "item-5": "Galería imágenes de servicios y/o productos",
+                            "item-6": "Diseño responsivo",
+                            "item-7": "Manual de administración de página web",
+                            "item-8": "Posicionamiento orgánico lite en buscadores (SEO)",
+                            "item-9": "Integración a Google maps",
+                            "item-10": "Formulario de contacto",
+                            "item-11": "Enlace a redes sociales",
+                            "item-12": "Botón a WhatsApp",
+                            "item-13": "Certificado de seguridad SSL",
+                            "item-14": "Hasta 10 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "A medida",
+                    "precio": "1490",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 8 secciones / páginas",
+                            "item-2": "Boletín de últimos acontecimientos",
+                            "item-3": "Optmización SEO avanzado",
+                            "item-4": "Banner de portada con imágenes deslizables",
+                            "item-5": "Galería imágenes de servicios y/o productos",
+                            "item-6": "Diseño responsivo",
+                            "item-7": "Manual de administración de página web",
+                            "item-8": "Posicionamiento orgánico en buscadores",
+                            "item-9": "Integración a Google maps",
+                            "item-10": "Formulario de contacto",
+                            "item-11": "Enlace a redes sociales",
+                            "item-12": "Botón a WhatsApp",
+                            "item-13": "Certificado de seguridad SSL",
+                            "item-14": "Correos corporativos ilimitados"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/user-pen-solid.svg",
+            "iconoAlt": "icono de usuario",
+            "titulo": [
+                {
+                    "span-1": "Página web",
+                    "span-2": "a medida"
+                }
+            ],
+            "texto": "Desarrollo personalizado para empresas que necesitan un sitio web único y adaptado completamente a sus necesidades y objetivos específicos.",
+            
+            "paquetes": [
+                {
+                    "id": 1,
+                    "titulo": "A medida",
+                    "precio": "A tratar",
+                    "lista": [
+                        {
+                            "item-1": "Secciones / páginas sin limitaciones",
+                            "item-2": "Diseño personalizado",
+                            "item-3": "Funcionalidades a medida para satisfacer necesidades específicas",
+                            "item-4": "Desarrollo PHP y base de datos MySQL",
+                            "item-5": "Plataformas y software de código libre para mayor flexibilidad",
+                            "item-6": "Programación estática HTML para un control total",
+                            "item-7": "Hojas de estilo CSS y JavaScript avanzadas",
+                            "item-8": "Interfaces de usuarios avanzadas con AJAX para una experiencia fluida",
+                            "item-9": "API Javascript de Google Maps para integración de mapas",
+                            "item-10": "Autenticación segura con OAuth de Facebook",
+                            "item-11": "Integración con plataformas de gestión ERP's/CRM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/paper-plane-solid.svg",
+            "iconoAlt": "icono de avion de papel",
+            "titulo": [
+                {
+                    "span-1": "Página web con",
+                    "span-2": "contenido dinámico"
+                }
+            ],
+            "texto": "Sitios que cambian el contenido mostrado según el comportamiento del usuario, mejorando la relevancia y la conversión.",
+            
+            "paquetes": [
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": "790",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 10 secciones / páginas dinámicas",
+                            "item-2": "Manejador de contenidos",
+                            "item-3": "Diseño responsive",
+                            "item-4": "Slider con hasta 4 imágenes",
+                            "item-5": "Galería de imágenes",
+                            "item-6": "Blog integrado",
+                            "item-7": "Múltiples formas de contacto",
+                            "item-8": "Enlace a redes sociales",
+                            "item-9": "Integración a Google Maps",
+                            "item-10": "Botón a WhatsApp",
+                            "item-11": "Certificado SSL",
+                            "item-12": "Hasta 4 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Avanzado",
+                    "precio": "1290",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 18 secciones / páginas dinámicas",
+                            "item-2": "Manejador de contenidos avanzado",
+                            "item-3": "Suscripción / registro de usuarios",
+                            "item-4": "Diseño responsive",
+                            "item-5": "Slider con hasta 4 imágenes",
+                            "item-6": "Galería y blog integrados",
+                            "item-7": "Apartado para productos / servicios",
+                            "item-8": "Enlace a redes sociales",
+                            "item-9": "Integración a Google Maps",
+                            "item-10": "Botón a WhatsApp",
+                            "item-11": "Certificado SSL",
+                            "item-12": "Hasta 12 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "A medida",
+                    "precio": "2390",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 30 secciones / páginas dinámicas",
+                            "item-2": "Manejador de contenidos avanzado",
+                            "item-3": "Suscripción / registro de usuarios",
+                            "item-4": "Apartado de tienda y noticias",
+                            "item-5": "Slider con hasta 4 imágenes",
+                            "item-6": "Múltiples servicios de información",
+                            "item-7": "Apartado de descargas",
+                            "item-8": "Integración con colaboración de usuarios",
+                            "item-9": "Botón a WhatsApp",
+                            "item-10": "Certificado SSL",
+                            "item-11": "Correos corporativos ilimitados"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/address-card-solid.svg",
+            "iconoAlt": "icono de tarjeta de identificacion",
+            "titulo": [
+                {
+                    "span-1": "Página web",
+                    "span-2": "para membresías"
+                }
+            ],
+            "texto": "Proporciona acceso exclusivo a contenido premium, productos o servicios para miembros suscritos, generando ingresos recurrentes.",
+            
+            "paquetes": [
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": "1490",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 10 secciones / páginas",
+                            "item-2": "Gestión de membresías con suscripción básica",
+                            "item-3": "Contenido restringido para miembros",
+                            "item-4": "Manejador de contenidos",
+                            "item-5": "Diseño responsive",
+                            "item-6": "Formulario de registro de usuarios",
+                            "item-7": "Integración con pasarelas de pago",
+                            "item-8": "Enlace a redes sociales",
+                            "item-9": "Certificado SSL",
+                            "item-10": "Hasta 10 correo corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Avanzado",
+                    "precio": "2590",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 10 secciones / páginas",
+                            "item-2": "Gestión avanzada de membresías (niveles y tipos de suscripción)",
+                            "item-3": "Contenido exclusivo para diferentes niveles de membresía",
+                            "item-4": "Manejador de contenidos avanzado",
+                            "item-5": "Diseño personalizado responsive",
+                            "item-6": "Área de usuarios con historial y preferencias",
+                            "item-7": "Integración con pasarelas de pago y CRM",
+                            "item-8": "Enlace a redes sociales",
+                            "item-9": "Certificado SSL",
+                            "item-10": "Hasta 20 correo corporativos"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/user-solid.svg",
+            "iconoAlt": "icono de usuario",
+            "titulo": [
+                {
+                    "span-1": "Portafolio",
+                    "span-2": "digital"
+                }
+            ],
+            "texto": "Muestra tu trabajo y logros con un portafolio en línea visualmente impresionante que resalta tus habilidades y experiencia.",
+            
+            "paquetes": [
+                {
+                    "id": 1,
+                    "titulo": "Inicial",
+                    "precio": "850",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 5 secciones / páginas",
+                            "item-2": "Muestra hasta 10 proyectos con imágenes y descripciones",
+                            "item-3": "Manejador de contenidos básico",
+                            "item-4": "Diseño responsive",
+                            "item-5": "Galería de imágenes",
+                            "item-6": "Formulario de contacto",
+                            "item-7": "Enlace a redes sociales",
+                            "item-8": "Certificado SSL",
+                            "item-9": "Hasta 5 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Profesional",
+                    "precio": "1490",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 10 secciones / páginas",
+                            "item-2": "Muestra hasta 25 proyectos con imágenes y descripciones",
+                            "item-3": "Manejador de contenidos avanzado",
+                            "item-4": "Diseño responsive",
+                            "item-5": "Galería de imágenes y videos",
+                            "item-6": "Slider para proyectos destacados",
+                            "item-7": "Formulario de contacto con segmentación",
+                            "item-8": "Enlace a redes sociales y botones de llamada a la acción",
+                            "item-9": "Certificado SSL",
+                            "item-10": "Hasta 10 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Premium",
+                    "precio": "2290",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 20 secciones / páginas",
+                            "item-2": "Muestra hasta 50 proyectos con imágenes y descripciones",
+                            "item-3": "Manejador de contenidos avanzado con categorización de proyectos",
+                            "item-4": "Diseño completamente personalizado y optimizado para SEO",
+                            "item-5": "Galería interactiva de imágenes y videos",
+                            "item-6": "Slider de proyectos destacados y testimonios",
+                            "item-7": "Integración con blog para actualizaciones de portafolio",
+                            "item-8": "Formulario de contacto avanzado con filtros personalizados",
+                            "item-9": "IIntegración con redes sociales, Google Analytics y CRM",
+                            "item-10": "Certificado SSL",
+                            "item-11": "Hasta 20 correos corporativos"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/list-ul-solid.svg",
+            "iconoAlt": "icono de lista",
+            "titulo": [
+                {
+                    "span-1": "Página de recopilación",
+                    "span-2": "para opiniones"
+                }
+            ],
+            "texto": "Facilita la recopilación de testimonios y reseñas de clientes, ayudando a construir la credibilidad y la confianza en tu marca.",
+            
+            "paquetes": [
+                {
+                    "id": 1,
+                    "titulo": "Inicial",
+                    "precio": "1200",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 5 secciones / páginas",
+                            "item-2": "Módulo de recopilación de opiniones con calificación de estrellas",
+                            "item-3": "Diseño responsive",
+                            "item-4": "Formularios de comentarios simples",
+                            "item-5": "Visualización básica de reseñas",
+                            "item-6": "Enlace a redes sociales",
+                            "item-7": "Certificado SSL",
+                            "item-8": "Hasta 5 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Profesional",
+                    "precio": "2100",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 10 secciones / páginas",
+                            "item-2": "Módulo avanzado de recopilación de opiniones y reseñas con opciones de filtros",
+                            "item-3": "Diseño personalizado responsive",
+                            "item-4": "Formularios de comentarios con opciones multimedia (imágenes y videos)",
+                            "item-5": "Visualización de reseñas con categorización por producto/servicio",
+                            "item-6": "Integración con Google My Business para sincronización de reseñas",
+                            "item-7": "Enlace a redes sociales",
+                            "item-8": "Certificado SSL",
+                            "item-9": "Hasta 10 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Completo",
+                    "precio": "2900",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 15 secciones / páginas",
+                            "item-2": "Módulo completo de recopilación y visualización de opiniones con filtros avanzados",
+                            "item-3": "Diseño completamente personalizado y optimizado para SEO",
+                            "item-4": "Formularios con opciones multimedia y encuestas personalizadas",
+                            "item-5": "Integración con plataformas externas de reseñas (Google, Facebook, Yelp)",
+                            "item-6": "Sistema de votación y validación de reseñas por usuarios",
+                            "item-7": "Enlace a redes sociales y botones de llamada a la acción",
+                            "item-8": "Enlace a redes sociales",
+                            "item-9": "Certificado SSL",
+                            "item-10": "Hasta 20 correos corporativos"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/user-plus-solid.svg",
+            "iconoAlt": "icono de agregar usuario",
+            "titulo": [
+                {
+                    "span-1": "Página web",
+                    "span-2": "para suscripción"
+                }
+            ],
+            "texto": "Simplifica la gestión de suscripciones con funciones de renovación automática, gestión de cuentas y contenido exclusivo.",
+            
+            "paquetes": [
+                {
+                    "id": 1,
+                    "titulo": "Inicial",
+                    "precio": "1500",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 5 secciones / páginas",
+                            "item-2": "Gestión básica de suscripciones",
+                            "item-3": "Diseño responsive",
+                            "item-4": "Formulario de registro y suscripción de usuarios",
+                            "item-5": "Integración con pasarelas de pago para suscripciones recurrentes",
+                            "item-6": "Panel básico para gestionar suscriptores",
+                            "item-7": "Enlace a redes sociales",
+                            "item-8": "Certificado SSL",
+                            "item-9": "Hasta 5 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Intermedio",
+                    "precio": "2400",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 10 secciones / páginas",
+                            "item-2": "Gestión avanzada de suscripciones con distintos planes (mensual, trimestral, anual)",
+                            "item-3": "Diseño personalizado responsive",
+                            "item-4": "Formulario avanzado de registro y suscripción con segmentación de usuarios",
+                            "item-5": "Integración con pasarelas de pago para pagos recurrentes",
+                            "item-6": "Panel de administración para gestionar suscriptores y envíos automáticos de facturación",
+                            "item-7": "Integración con herramientas de email marketing",
+                            "item-8": "Certificado SSL",
+                            "item-9": "Hasta 10 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Avanzado",
+                    "precio": "3500",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 20 secciones / páginas",
+                            "item-2": "Gestión completa de suscripciones con múltiples niveles de membresía",
+                            "item-3": "Diseño personalizado optimizado para SEO",
+                            "item-4": "Formulario de registro y suscripción con opciones de personalización de perfil",
+                            "item-5": "Integración avanzada con pasarelas de pago y CRM",
+                            "item-6": "Sistema automatizado de envío de contenido exclusivo para miembros",
+                            "item-7": "Panel de control para gestión de suscriptores, facturación y métricas avanzadas",
+                            "item-8": "Integración con Google Analytics y herramientas de email marketing",
+                            "item-9": "Certificado SSL",
+                            "item-10": "Hasta 20 correos corporativos"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/receipt-solid.svg",
+            "iconoAlt": "icono de ticket",
+            "titulo": [
+                {
+                    "span-1": "Página web",
+                    "span-2": "para reserva de citas"
+                }
+            ],
+            "texto": "Simplifica la gestión de suscripciones con funciones de renovación automática, gestión de cuentas y contenido exclusivo.",
+            
+            "paquetes": [
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": "1300",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 5 secciones / páginas",
+                            "item-2": "Sistema básico de reservas con calendario",
+                            "item-3": "Diseño responsive",
+                            "item-4": "Formulario de reserva simple para citas",
+                            "item-5": "Confirmación de reserva vía email",
+                            "item-6": "Integración con Google Calendar",
+                            "item-7": "Enlace a redes sociales",
+                            "item-8": "Certificado SSL",
+                            "item-9": "Hasta 5 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Avanzado",
+                    "precio": "2400",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 10 secciones / páginas",
+                            "item-2": "Sistema avanzado de reservas con calendario y pagos online",
+                            "item-3": "Diseño personalizado responsive",
+                            "item-4": "Formulario avanzado de reservas con selección de servicios y horarios",
+                            "item-5": "Confirmación automática y recordatorios de citas vía email y SMS",
+                            "item-6": "Integración con Google Calendar y sincronización con otros sistemas de reservas",
+                            "item-7": "Gestión de disponibilidad de recursos y personal",
+                            "item-8": "Certificado SSL",
+                            "item-9": "Hasta 10 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Avanzado",
+                    "precio": "3500",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 15 secciones / páginas",
+                            "item-2": "Sistema completo de reservas con pagos online y gestión de usuarios",
+                            "item-3": "Diseño completamente personalizado y optimizado para SEO",
+                            "item-4": "Formulario avanzado con múltiples opciones de servicios, horarios y personal",
+                            "item-5": "Confirmación y recordatorios automáticos por email, SMS y WhatsApp",
+                            "item-6": "Integración con Google Calendar, CRM y sistemas de terceros",
+                            "item-7": "Panel de administración para gestionar citas, disponibilidad y seguimiento de clientes",
+                            "item-8": "Certificado SSL",
+                            "item-9": "Hasta 20 correos corporativos"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/vr-cardboard-solid.svg",
+            "iconoAlt": "icono de lentes de realidad aumentada",
+            "titulo": [
+                {
+                    "span-1": "Página web",
+                    "span-2": "RA y RV"
+                }
+            ],
+            "texto": "Permite a tus clientes reservar o programar citas directamente en tu sitio web, con integración de calendario y recordatorios automáticos.",
+            
+            "paquetes": [
+                {
+                    "id": 1,
+                    "titulo": "Básico",
+                    "precio": "3000",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 5 secciones / páginas",
+                            "item-2": "Integración básica de AR para visualización de productos en 3D",
+                            "item-3": "Diseño responsive optimizado para móviles y tabletas",
+                            "item-4": "Galería interactiva con imágenes 360°",
+                            "item-5": "Formularios de contacto",
+                            "item-6": "Enlace a redes sociales",
+                            "item-7": "Certificado SSL",
+                            "item-8": "Hasta 5 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Intermedio",
+                    "precio": "5500",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 10 secciones / páginas",
+                            "item-2": "Integración avanzada de AR para productos y experiencias inmersivas",
+                            "item-3": "Módulo interactivo para experiencias VR en recorridos o visitas virtuales",
+                            "item-4": "Diseño personalizado y optimizado para dispositivos de realidad aumentada",
+                            "item-5": "Integración de videos 360° para experiencias inmersivas",
+                            "item-6": "Formularios avanzados para captación de leads",
+                            "item-7": "Enlace a redes sociales y botones de interacción",
+                            "item-8": "Certificado SSL",
+                            "item-9": "Hasta 10 correos corporativos"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Avanzado",
+                    "precio": "8500",
+                    "lista": [
+                        {
+                            "item-1": "Hasta 20 secciones / páginas",
+                            "item-2": "Experiencia AR avanzada para interacción con productos en tiempo real",
+                            "item-3": "Diseño completamente personalizado y optimizado para SEO",
+                            "item-4": "Formulario avanzado con múltiples opciones de servicios, horarios y personal",
+                            "item-5": "Confirmación y recordatorios automáticos por email, SMS y WhatsApp",
+                            "item-6": "Integración con Google Calendar, CRM y sistemas de terceros",
+                            "item-7": "Panel de administración para gestionar citas, disponibilidad y seguimiento de clientes",
+                            "item-8": "Certificado SSL",
+                            "item-9": "Hasta 20 correos corporativos"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+
+    "incluye": [
+        {
+            "id": 1,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/headset-solid.svg",
+            "iconoAlt": "icono de audifonos",
+            "titulo": [
+                {
+                    "span-1": "Asesoramiento",
+                    "span-2": "web"
+                }
+            ],
+            "texto": "Te ofrecemos toda la asesoría pertinente, referente a nuestros servicios."
+        },
+        {
+            "id": 2,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/swatchbook-solid.svg",
+            "iconoAlt": "icono de articulos de diseño",
+            "titulo": [
+                {
+                    "span-1": "Diseño web",
+                    "span-2": "profesional"
+                }
+            ],
+            "texto": "Funcionales y fáciles de utilizar por los usuarios."
+        },
+        {
+            "id": 3,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/at-solid.svg",
+            "iconoAlt": "icono de arroba",
+            "titulo": [
+                {
+                    "span-1": "Integración",
+                    "span-2": "con RRSS"
+                }
+            ],
+            "texto": "Implementamos botones de redes sociales para difundir o promover tu negocio."
+        },
+        {
+            "id": 4,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/mobile-solid.svg",
+            "iconoAlt": "icono de un celular",
+            "titulo": [
+                {
+                    "span-1": "Diseño",
+                    "span-2": "responsive"
+                }
+            ],
+            "texto": "Los usuarios visualizarán correctamente tu web desde una computadora, laptop, tablet o celular."
+        },
+        {
+            "id": 5,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/hashtag-solid.svg",
+            "iconoAlt": "icono un hashtag",
+            "titulo": [
+                {
+                    "span-1": "Meta",
+                    "span-2": "tags"
+                }
+            ],
+            "texto": "Metatags con palabras que caractericen tu sitio web para que Google rastree tu web."
+        },
+        {
+            "id": 6,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/envelope-solid.svg",
+            "iconoAlt": "icono de un sobre",
+            "titulo": [
+                {
+                    "span-1": "Formulario",
+                    "span-2": "de contacto"
+                }
+            ],
+            "texto": "Permite a tus clientes enviar mensajes de pedidos o cotizaciones de modo rápido y seguro."
+        },
+        {
+            "id": 7,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/image-solid.svg",
+            "iconoAlt": "icono de una foto",
+            "titulo": [
+                {
+                    "span-1": "Imagen",
+                    "span-2": "corporativa"
+                }
+            ],
+            "texto": "Desarrollamos tu sitio web en base a la línea gráfica de tu empresa."
+        },
+        {
+            "id": 8,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/images-solid.svg",
+            "iconoAlt": "icono de varias imagenes",
+            "titulo": [
+                {
+                    "span-1": "Efecto",
+                    "span-2": "slider"
+                }
+            ],
+            "texto": "Incluimos una serie de imágenes atractivas y relativas a tu negocio."
+        },
+        {
+            "id": 9,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/google-brands-solid.svg",
+            "iconoAlt": "icono del logo de Google",
+            "titulo": [
+                {
+                    "span-1": "Integración",
+                    "span-2": "a Google"
+                }
+            ],
+            "texto": "Tramitamos la solicitud a Google para que rastree e indexe las URL de tu página web."
+        },
+        {
+            "id": 10,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/envelope-open-text-solid.svg",
+            "iconoAlt": "icono de un sobre abierto",
+            "titulo": [
+                {
+                    "span-1": "Correos corporativos",
+                    "span-2": "a Google"
+                }
+            ],
+            "texto": "Te brindamos el acceso a correos corporativos mediante el dominio de tu empresa."
+        },
+        {
+            "id": 11,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/w-solid.svg",
+            "iconoAlt": "icono de la letra w",
+            "titulo": [
+                {
+                    "span-1": "Dominio .com",
+                    "span-2": "y hosting"
+                }
+            ],
+            "texto": "Tu dominio .com y un servidor de hospedaje web completamente gratis durante el primer año."
+        },
+        {
+            "id": 12,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/clock-solid.svg",
+            "iconoAlt": "icono de un reloj",
+            "titulo": [
+                {
+                    "span-1": "Soporte técnico",
+                    "span-2": "y capacitación"
+                }
+            ],
+            "texto": "Soporte técnico a nivel código 24/7."
+        }
+    ],
+
+    "faq": [
+        {
+            "id": 1,
+            "titulo": "Pagos en línea",
+            "respuesta":[
+                {
+                    "parrafo-1": "Recibe pagos online de tus productos y servicios desde cualquier parte, y con cualquier tarjeta.",
+                    "parrafo-2": "Te asesoramos en tus trámites de tu cuenta virtual. Verás que es fácil y confiable."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Comunicación en tiempo real",
+            "respuesta":[
+                {
+                    "parrafo-1": "Obtén una plataforma con intercambio instantaneo de información."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Intranet corporativa",
+            "respuesta":[
+                {
+                    "parrafo-1": "Secciones de su sitio web con acceso restringido para usuarios que veas conveniente, ingresaran con usuario y contraseña."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "Comunicación en tiempo real",
+            "respuesta":[
+                {
+                    "parrafo-1": "Secciones de su sitio web con acceso restringido para usuarios que veas conveniente, ingresaran con un usuario y password."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "titulo": "Carrito de compras",
+            "respuesta":[
+                {
+                    "parrafo-1": "Añade tus productos o servicios a un carrito de compras o lista de deseos."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "titulo": "Blog",
+            "respuesta":[
+                {
+                    "parrafo-1": "Educa a tus clientes con temas relacionados a tus servicios, mostrandote asi como un experto."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "titulo": "Botón a WhatsApp",
+            "respuesta":[
+                {
+                    "parrafo-1": "Tu web estará lista para que de un solo push abran una conversación con tu whatsapp."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "titulo": "Botón de llamada",
+            "respuesta":[
+                {
+                    "parrafo-1": "Tu web estará lista para que de un solo push puedan ponerse en contacto contigo."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "titulo": "Certificado SSL y HTTPS",
+            "respuesta":[
+                {
+                    "parrafo-1": "Otorgamos seguridad en las transacciones de pago, además de ofrecerte mayor seriedad y 'caché' a tu sitio web.",
+                    "parrafo-2": "Google ha anunciado que los proximos años las páginas web que no cuenten con SSL, no saldrán en sus resultados de búsquedas."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "titulo": "Correos autómaticos",
+            "respuesta":[
+                {
+                    "parrafo-1": "Envia un correos automaticos para confirmar una suscripcion, un registro entre otros."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "titulo": "Calendario interactivo",
+            "respuesta":[
+                {
+                    "parrafo-1": "Calendario donde podrás añadir actividades , eventos o fechas importantes de tu empresa."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+.m-e-paquetes-container{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #00000050;
+    display: flex;
+    padding: 20px;
+    z-index: 202;
+
+    transition: var(--t-100ms);
+
+    opacity: 0;
+    pointer-events: none;
+    user-select: none;
+}
+
+.m-e-paquetes-container:target{
+    opacity: 1;
+    pointer-events: unset;
+    user-select: unset;
+}
+
+.m-e-paquetes{
+    margin: auto;
+    width: 100%;
+    max-width: 1400px;
+    background: var(--white);
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    scale: 0.95;
+    transition: var(--t-100ms);
+}
+
+.m-e-paquetes-container:target .m-e-paquetes{
+    scale: 1;
+}
+
+.m-e-paquetes{
+    position: relative;
+}

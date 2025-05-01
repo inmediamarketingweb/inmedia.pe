@@ -1,0 +1,451 @@
+{
+    "servicios":[
+        {
+            "id": 1,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/pen-clip-solid.svg",
+            "iconoAlt": "icono de lapicero",
+            "titulo":[
+                {
+                    "span-1": "Diseño",
+                    "span-2": "de logotipos"
+                }
+            ],
+            "texto": "Creamos logotipos originales, versátiles y contemporáneos que reflejan la esencia de tu marca, destacándote en un entorno competitivo.",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Starter",
+                    "precio": "200",
+                    "lista":[
+                        {
+                            "item-1": "2 propuestas",
+                            "item-2": "1 ronda de revisiones",
+                            "item-3": "En formatos PNG y JPG",
+                            "item-4": "Versión para fondo claro y oscuro"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Pro",
+                    "precio": "400",
+                    "lista":[
+                        {
+                            "item-1": "4 propuestas",
+                            "item-2": "3 rondas de revisiones",
+                            "item-3": "Versión para fondo claro y oscuro",
+                            "item-4": "Manual de identidad básica (colores, tipografía, usos permitidos)"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Elite",
+                    "precio": "600",
+                    "lista":[
+                        {
+                            "item-1": "6 propuestas",
+                            "item-2": "Rondas de revisiones ilimitadas",
+                            "item-3": "Entrega en todos los formatos: AI, EPS, PDF, PNG y JPG",
+                            "item-4": "Manual de identidad básica (colores, tipografía, usos permitidos)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/object-ungroup-solid.svg",
+            "iconoAlt": "icono de un grupo seleccionado",
+            "titulo":[
+                {
+                    "span-1": "Imagen",
+                    "span-2": "corporativa"
+                }
+            ],
+            "texto": "Desarrollamos la identidad visual completa de tu empresa, garantizando coherencia en todos los puntos de contacto, desde la papelería hasta la presencia online.",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Starter",
+                    "precio": "300",
+                    "lista":[
+                        {
+                            "item-1": "Diseño de logotipo y tarjetas de presentación",
+                            "item-2": "2 propuestas y rondas de revisión",
+                            "item-3": "Entrega en formatos digitales"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Pro",
+                    "precio": "600",
+                    "lista":[
+                        {
+                            "item-1": "Diseño de logotipo, tarjetas de presentación y hojas membretadas",
+                            "item-2": "3 propuestas y rondas de revisión",
+                            "item-3": "Entrega en formatos digitales y editables",
+                            "item-4": "Manual de identidad corporativa básico"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Elite",
+                    "precio": "900",
+                    "lista":[
+                        {
+                            "item-1": "Diseño de logotipo, tarjetas de presentación, hojas membretadas, sobres y presentaciones corporativas",
+                            "item-2": "Hasta 5 propuestas",
+                            "item-3": "Revisiones ilimitadas",
+                            "item-4": "Manual de identidad corporativa completo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/at-solid.svg",
+            "iconoAlt": "icono de arroba",
+            "titulo":[
+                {
+                    "span-1": "Materiales para",
+                    "span-2": "redes sociales"
+                }
+            ],
+            "texto": "Optimiza la presencia de tu marca con gráficos impactantes para tus campañas en redes sociales, asegurando que cada publicación comunique profesionalismo y creatividad.",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Starter",
+                    "precio": "250",
+                    "lista":[
+                        {
+                            "item-1": "10 publicaciones para redes sociales",
+                            "item-2": "1 concepto creativo",
+                            "item-3": "1 ronda de revisión"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Pro",
+                    "precio": "500",
+                    "lista":[
+                        {
+                            "item-1": "20 publicaciones para redes sociales (estáticas y animadas)",
+                            "item-2": "2 conceptos creativos",
+                            "item-3": "2 rondas de revisión"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Elite",
+                    "precio": "850",
+                    "lista":[
+                        {
+                            "item-1": "30 publicaciones para redes sociales (videos cortos y gráficos animados)",
+                            "item-2": "3 conceptos creativos",
+                            "item-3": "Calendario de publicaciones sugerido"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/swatchbook-solid.svg",
+            "iconoAlt": "icono de herramientas de diseño",
+            "titulo":[
+                {
+                    "span-1": "Presentaciones",
+                    "span-2": "corporativas"
+                }
+            ],
+            "texto": "Optimiza la presencia de tu marca con gráficos impactantes para tus campañas en redes sociales, asegurando que cada publicación comunique profesionalismo y creatividad.",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Starter",
+                    "precio": "250",
+                    "lista":[
+                        {
+                            "item-1": "10 diapositivas",
+                            "item-2": "1 propuesta de estilo",
+                            "item-3": "1 ronda de revisión"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Pro",
+                    "precio": "500",
+                    "lista":[
+                        {
+                            "item-1": "20 diapositivas",
+                            "item-2": "2 propuestas de estilo",
+                            "item-3": "2 ronda de revisiones"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Elite",
+                    "precio": "750",
+                    "lista":[
+                        {
+                            "item-1": "30 diapositivas",
+                            "item-2": "3 propuestas de estilo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/marker-solid.svg",
+            "iconoAlt": "icono de lapicero",
+            "titulo":[
+                {
+                    "span-1": "Branding",
+                    "span-2": "estratégico"
+                }
+            ],
+            "texto": "Desarrollamos y potenciamos tu marca desde cero o renovamos la existente, enfocándonos en la estrategia y percepción de tu audiencia.",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Starter",
+                    "precio": "500",
+                    "lista":[
+                        {
+                            "item-1": "Investigación básica del mercado y competencia",
+                            "item-2": "Diseño de logotipo",
+                            "item-3": "1 ronda de revisión"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Pro",
+                    "precio": "900",
+                    "lista":[
+                        {
+                            "item-1": "Investigación básica del mercado y competencia",
+                            "item-2": "Diseño de logotipo y tarjetas de presentación",
+                            "item-3": "Estrategia básica de comunicación visual"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Elite",
+                    "precio": "1800",
+                    "lista":[
+                        {
+                            "item-1": "Investigación de mercado, competencia y público objetivo",
+                            "item-2": "Estrategia completa (valores, mensajes y comunicación visual)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/grip-vertical-solid.svg",
+            "iconoAlt": "icono de grilla vertical",
+            "titulo":[
+                {
+                    "span-1": "Materiales",
+                    "span-2": "publicitarios"
+                }
+            ],
+            "texto": "Creamos folletos, banners y otros materiales publicitarios con un enfoque moderno, que maximicen el impacto de tus campañas de marketing."
+        },
+        {
+            "id": 7,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/book-solid.svg",
+            "iconoAlt": "icono de un libro",
+            "titulo":[
+                {
+                    "span-1": "Catálogos digitales",
+                    "span-2": "e interactivos"
+                }
+            ],
+            "texto": "Adaptamos tus productos o servicios en catálogos online con diseños interactivos que captan la atención de tus clientes y facilitan la conversión.",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Starter",
+                    "precio": "350",
+                    "lista":[
+                        {
+                            "item-1": "Hasta 10 páginas",
+                            "item-2": "1 ronda de revisión"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Pro",
+                    "precio": "600",
+                    "lista":[
+                        {
+                            "item-1": "Hasta 20 páginas",
+                            "item-2": "2 rondas de revisiones"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Elite",
+                    "precio": "900",
+                    "lista":[
+                        {
+                            "item-1": "Hasta 20 páginas",
+                            "item-2": "3 rondas de revisiones"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/box-solid.svg",
+            "iconoAlt": "icono de megafono",
+            "titulo":[
+                {
+                    "span-1": "Diseño de",
+                    "span-2": "packaging"
+                }
+            ],
+            "texto": "Desarrollamos empaques innovadores que destacan en el mercado y representan los valores de tu marca, creando una experiencia memorable para el cliente",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Starter",
+                    "precio": "400",
+                    "lista":[
+                        {
+                            "item-1": "1 propuesta de empaque",
+                            "item-2": "1 ronda de revisión"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Pro",
+                    "precio": "600",
+                    "lista":[
+                        {
+                            "item-1": "2 propuestas de empaque en caja o bolsa",
+                            "item-2": "Mockups en 3D"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Elite",
+                    "precio": "900",
+                    "lista":[
+                        {
+                            "item-1": "3 propuestas de empaque en caja, bolsa y etiquetas",
+                            "item-2": "Mockups 3D y asesoría en materiales de impresión"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/outdent-solid.svg",
+            "iconoAlt": "icono de megafono",
+            "titulo":[
+                {
+                    "span-1": "Diseño de",
+                    "span-2": "infografías"
+                }
+            ],
+            "texto": "Transmitimos datos complejos de manera clara y visualmente atractiva, utilizando infografías personalizadas que posicionan a tu marca como referente en su industria.",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Starter",
+                    "precio": "120",
+                    "lista":[
+                        {
+                            "item-1": "1 infografía estática"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Pro",
+                    "precio": "300",
+                    "lista":[
+                        {
+                            "item-1": "3 infografías estáticas"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Elite",
+                    "precio": "500",
+                    "lista":[
+                        {
+                            "item-1": "5 infografías estáticas"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "icono": "https://inmedia.pe/Imagenes/Iconos/blanco/paintbrush-solid.svg",
+            "iconoAlt": "icono de un pincel",
+            "titulo":[
+                {
+                    "span-1": "Ilustraciones",
+                    "span-2": "personalizadas"
+                }
+            ],
+            "texto": "Creamos ilustraciones únicas y a medida, perfectas para campañas creativas o proyectos que requieren una personalización visual específica.",
+            "paquetes":[
+                {
+                    "id": 1,
+                    "titulo": "Starter",
+                    "precio": "200",
+                    "lista":[
+                        {
+                            "item-1": "1 ilustración personalizada"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "titulo": "Pro",
+                    "precio": "300",
+                    "lista":[
+                        {
+                            "item-1": "2 ilustraciones personalizadas"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "titulo": "Elite",
+                    "precio": "600",
+                    "lista":[
+                        {
+                            "item-1": "5 ilustraciones personalizadas"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

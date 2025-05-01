@@ -1,0 +1,17 @@
+.format-img{
+    width: auto;
+    height: 150px;
+    object-fit: contain;
+}
+
+@media screen and (max-width:800px){
+    .format-img{
+        height: 130px;
+    }
+}
+
+@media screen and (max-width:600px){
+    .format-img{
+        height: 100px;
+    }
+}

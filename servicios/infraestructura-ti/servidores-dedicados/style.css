@@ -1,0 +1,9 @@
+.s-d-img-1{
+    max-width: 100px;
+}
+
+@media screen and (max-width: 600px){
+    .s-d-img-1{
+        max-width: 70px;
+    }
+}

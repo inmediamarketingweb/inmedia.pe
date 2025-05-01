@@ -1,0 +1,143 @@
+{
+    "paquetes":[
+        {
+            "id": 1,
+            "titulo": "Hosting Inmedia 1",
+            "precio": "50",
+            "lista":[
+                {
+                    "item-1": "250Mb de almacenamiento",
+                    "item-2": "2.5Gb de tráfico mensual",
+                    "item-3": "Cuentas de correo ilimitadas",
+                    "item-4": "Acceso a Cpanel",
+                    "item-5": "Bases de datos ilimitadas",
+                    "item-6": "Subdominios ilimitados",
+                    "item-7": "Usuarios FTP ilimitados",
+                    "item-8": "Garantía del 99% del tiempo",
+                    "item-9": "Contratado en línea",
+                    "item-10": "Soporte por email"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Hosting Inmedia 2",
+            "precio": "100",
+            "lista":[
+                {
+                    "item-1": "1 dominio (.com)",
+                    "item-2": "500Mb de almacenamiento",
+                    "item-3": "5Gb de tráfico mensual",
+                    "item-4": "Cuentas de correo ilimitadas",
+                    "item-5": "Acceso a Cpanel",
+                    "item-6": "Bases de datos ilimitadas",
+                    "item-7": "Subdominios ilimitados",
+                    "item-8": "Usuarios FTP ilimitados",
+                    "item-9": "Garantía del 99% del tiempo",
+                    "item-10": "Contratado en línea",
+                    "item-11": "Soporte por email"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Hosting Inmedia 3",
+            "precio": "150",
+            "lista":[
+                {
+                    "item-1": "1 dominio (.com)",
+                    "item-2": "1Gb de almacenamiento",
+                    "item-3": "10Gb de tráfico mensual",
+                    "item-4": "Cuentas de correo ilimitadas",
+                    "item-5": "Acceso a Cpanel",
+                    "item-6": "Bases de datos ilimitadas",
+                    "item-7": "Subdominios ilimitados",
+                    "item-8": "Usuarios FTP ilimitados",
+                    "item-9": "Garantía del 99% del tiempo",
+                    "item-10": "Contratado en línea",
+                    "item-11": "Soporte por email"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "Hosting Inmedia 4",
+            "precio": "200",
+            "lista":[
+                {
+                    "item-1": "1 dominio (.com)",
+                    "item-2": "2Gb de almacenamiento",
+                    "item-3": "20Gb de tráfico mensual",
+                    "item-4": "Cuentas de correo ilimitadas",
+                    "item-5": "Acceso a Cpanel",
+                    "item-6": "Bases de datos ilimitadas",
+                    "item-7": "Subdominios ilimitados",
+                    "item-8": "Usuarios FTP ilimitados",
+                    "item-9": "Garantía del 99% del tiempo",
+                    "item-10": "Contratado en línea",
+                    "item-11": "Soporte por email"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "titulo": "Hosting Inmedia 5",
+            "precio": "250",
+            "lista":[
+                {
+                    "item-1": "1 dominio (.com)",
+                    "item-2": "4Gb de almacenamiento",
+                    "item-3": "40Gb de tráfico mensual",
+                    "item-4": "Cuentas de correo ilimitadas",
+                    "item-5": "Acceso a Cpanel",
+                    "item-6": "Bases de datos ilimitadas",
+                    "item-7": "Subdominios ilimitados",
+                    "item-8": "Usuarios FTP ilimitados",
+                    "item-9": "Garantía del 99% del tiempo",
+                    "item-10": "Contratado en línea",
+                    "item-11": "Soporte por email"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "titulo": "Hosting Inmedia 6",
+            "precio": "300",
+            "lista":[
+                {
+                    "item-1": "1 dominio (.com)",
+                    "item-2": "8Gb de almacenamiento",
+                    "item-3": "80Gb de tráfico mensual",
+                    "item-4": "Cuentas de correo ilimitadas",
+                    "item-5": "Acceso a Cpanel",
+                    "item-6": "Bases de datos ilimitadas",
+                    "item-7": "Subdominios ilimitados",
+                    "item-8": "Usuarios FTP ilimitados",
+                    "item-9": "Garantía del 99% del tiempo",
+                    "item-10": "Contratado en línea",
+                    "item-11": "Soporte por email"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "titulo": "Hosting Inmedia 7",
+            "precio": "350",
+            "lista":[
+                {
+                    "item-1": "1 dominio (.com)",
+                    "item-2": "16Gb de almacenamiento",
+                    "item-3": "160Gb de tráfico mensual",
+                    "item-4": "Cuentas de correo ilimitadas",
+                    "item-5": "Acceso a Cpanel",
+                    "item-6": "Bases de datos ilimitadas",
+                    "item-7": "Subdominios ilimitados",
+                    "item-8": "Usuarios FTP ilimitados",
+                    "item-9": "Garantía del 99% del tiempo",
+                    "item-10": "Contratado en línea",
+                    "item-11": "Soporte por email"
+                }
+            ]
+        }
+    ]
+}

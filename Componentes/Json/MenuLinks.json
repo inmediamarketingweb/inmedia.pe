@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "texto": "Diseño web",
+        "link": "https://inmedia.pe/servicios/diseno-web",
+        "title": "Diseño web | Inmedia Marketing Web"
+    },
+    {
+        "id": 2,
+        "texto": "Marketing estratégico",
+        "link": "https://inmedia.pe/servicios/marketing-estrategico",
+        "title": "Marketing estratégico | Inmedia Marketing Web"
+    },
+    {
+        "id": 3,
+        "texto": "Publicidad digital",
+        "link": "https://inmedia.pe/servicios/publicidad-digital",
+        "title": "Publicidad digital | Inmedia Marketing Web"
+    },
+    {
+        "id": 4,
+        "texto": "Diseño gráfico",
+        "link": "https://inmedia.pe/servicios/diseno-grafico",
+        "title": "Diseño gráfico | Inmedia Marketing Web"
+    },
+    {
+        "id": 5,
+        "texto": "Video marketing",
+        "link": "https://inmedia.pe/servicios/video-marketing",
+        "title": "Video marketing | Inmedia Marketing Web"
+    },
+    {
+        "id": 6,
+        "texto": "Chatbot & ventas",
+        "link": "https://inmedia.pe/servicios/chatbot-&-ventas",
+        "title": "Chatbot & ventas | Inmedia Marketing Web"
+    },
+    {
+        "id": 7,
+        "texto": "Infraestructura TI",
+        "link": "https://inmedia.pe/servicios/infraestructura-ti/",
+        "title": "Infraestructura TI | Inmedia Marketing Web",
+        "sublinks": [
+            {
+                "icono": "https://inmedia.pe/Imagenes/Iconos/azul/cloud-solid.svg",
+                "iconoAlt": "icono de una nube",
+                "texto": "Hosting y dominio",
+                "sublink": "https://inmedia.pe/servicios/infraestructura-ti/hosting-y-dominio",
+                "title": "Hosting y dominio | Inmedia Marketing Web"
+            },
+            {
+                "icono": "https://inmedia.pe/Imagenes/Iconos/azul/server-solid.svg",
+                "iconoAlt": "icono de un servidor",
+                "texto": "Servidores VPS",
+                "sublink": "https://inmedia.pe/servicios/infraestructura-ti/servidores-vps",
+                "title": "Servidores VPS | Inmedia Marketing Web"
+            },
+            {
+                "icono": "https://inmedia.pe/Imagenes/Iconos/azul/database-solid.svg",
+                "iconoAlt": "icono de una base de datos",
+                "texto": "Servidores dedicados",
+                "sublink": "https://inmedia.pe/servicios/infraestructura-ti/servidores-dedicados",
+                "title": "Servidores dedicados | Inmedia Marketing Web"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "texto": "Gestión de redes sociales",
+        "link": "https://inmedia.pe/servicios/gestion-de-redes-sociales",
+        "title": "Gestión de redes sociales | Inmedia Marketing Web"
+    }
+]

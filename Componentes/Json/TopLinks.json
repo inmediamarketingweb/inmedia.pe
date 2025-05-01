@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "texto": "Inicio",
+        "link": "https://inmedia.pe/",
+        "title": "Agencia de marketing web | Inmedia Marketing Web"
+    },
+    {
+        "id": 2,
+        "texto": "Nosotros",
+        "link": "https://inmedia.pe/nosotros",
+        "title": "Nosotros | Inmedia Marketing Web"
+    },
+    {
+        "id": 3,
+        "texto": "Servicios",
+        "link": "https://inmedia.pe/servicios",
+        "title": "Servicios | Inmedia Marketing Web"
+    },
+    {
+        "id": 4,
+        "texto": "Blog",
+        "link": "https://www.blog.inmedia.pe/",
+        "title": "Blog | Inmedia Marketing Web"
+    },
+    {
+        "id": 5,
+        "texto": "Portafolio",
+        "link": "https://inmedia.pe/portafolio",
+        "title": "Portafolio | Inmedia Marketing Web"
+    },
+    {
+        "id": 6,
+        "texto": "Contacto",
+        "link": "https://inmedia.pe/contacto",
+        "title": "Contacto | Inmedia Marketing Web"
+    },
+    {
+        "id": 7,
+        "texto": "Conexión global",
+        "lista":[
+            {
+                "id": 1,
+                "img": "https://inmedia.pe/Componentes/Header/Imagenes/espana.webp",
+                "texto": "España"
+            },
+            {
+                "id": 2,
+                "img": "https://inmedia.pe/Componentes/Header/Imagenes/peru.webp",
+                "texto": "Perú"
+            },
+            {
+                "id": 3,
+                "img": "https://inmedia.pe/Componentes/Header/Imagenes/mexico.webp",
+                "texto": "México"
+            },
+            {
+                "id": 4,
+                "img": "https://inmedia.pe/Componentes/Header/Imagenes/argentina.webp",
+                "texto": "Argentina"
+            },
+            {
+                "id": 5,
+                "img": "https://inmedia.pe/Componentes/Header/Imagenes/colombia.webp",
+                "texto": "Colombia"
+            },
+            {
+                "id": 6,
+                "img": "https://inmedia.pe/Componentes/Header/Imagenes/chile.webp",
+                "texto": "Chile"
+            },
+            {
+                "id": 7,
+                "img": "https://inmedia.pe/Componentes/Header/Imagenes/ecuador.webp",
+                "texto": "Ecuador"
+            },
+            {
+                "id": 8,
+                "img": "https://inmedia.pe/Componentes/Header/Imagenes/bolivia.webp",
+                "texto": "Bolivia"
+            },
+            {
+                "id": 9,
+                "img": "https://inmedia.pe/Componentes/Header/Imagenes/uruguay.webp",
+                "texto": "Uruguay"
+            }
+        ]
+    }
+]
