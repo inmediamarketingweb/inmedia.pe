@@ -1,0 +1,90 @@
+RewriteEngine On
+
+# Redirigir www a no-www
+RewriteCond %{HTTP_HOST} ^www\.inmedia\.pe [NC]
+RewriteRule ^ https://inmedia.pe%{REQUEST_URI} [R=301,L]
+
+# Asegurar el uso de HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+# Regla para la raíz del sitio
+RewriteRule ^$ index.php [L]
+
+# Excluir imágenes y otros archivos estáticos de las reglas de reescritura
+RewriteCond %{REQUEST_URI} \.(gif|jpg|jpeg|png|svg|webp|ico|css|js|woff|woff2|ttf|eot)$ [NC]
+RewriteRule .* - [L]
+
+# Reglas para servicios
+RewriteRule ^servicios$ servicios/index.php [L]
+
+# Reglas para servicios/infraestructura-ti
+RewriteRule ^servicios/infraestructura-ti/hosting-y-dominio$ servicios/infraestructura-ti/hosting-y-dominio.php [L]
+RewriteRule ^servicios/infraestructura-ti/servidores-dedicados$ servicios/infraestructura-ti/servidores-dedicados.php [L]
+RewriteRule ^servicios/infraestructura-ti/servidores-vps$ servicios/infraestructura-ti/servidores-vps.php [L]
+RewriteRule ^servicios/infraestructura-ti$ servicios/infraestructura-ti/index.php [L]
+
+# Reglas para otros servicios
+RewriteRule ^servicios/diseno-web$ servicios/diseno-web.php [L]
+RewriteRule ^servicios/marketing-estrategico$ servicios/marketing-estrategico.php [L]
+RewriteRule ^servicios/gestion-de-redes-sociales$ servicios/gestion-de-redes-sociales.php [L]
+RewriteRule ^servicios/publicidad-digital$ servicios/publicidad-digital.php [L]
+RewriteRule ^servicios/diseno-grafico$ servicios/diseno-grafico.php [L]
+RewriteRule ^servicios/video-marketing$ servicios/video-marketing.php [L]
+RewriteRule ^servicios/chatbot-y-ventas$ servicios/chatbot-y-ventas.php [L]
+
+# Reglas para otras páginas
+RewriteRule ^nosotros$ nosotros.php [L]
+RewriteRule ^portafolio$ portafolio.php [L]
+RewriteRule ^contacto$ contacto.php [L]
+RewriteRule ^clientes$ clientes.php [L]
+RewriteRule ^condiciones-de-servicio$ condiciones-de-servicio.php [L]
+RewriteRule ^libro-de-reclamaciones$ libro-de-reclamaciones.php [L]
+RewriteRule ^solicitar-cotizacion$ solicitar-cotizacion.php [L]
+
+# Página de error 404 personalizada
+ErrorDocument 404 /404-pagina-no-encontrada.php
+
+# Habilitar CORS y permitir acceso desde un dominio específico
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "https://inmedia.pe"
+    Header set Access-Control-Allow-Methods "GET, POST, OPTIONS"
+    Header set Access-Control-Allow-Headers "Content-Type, Authorization"
+    Header set Access-Control-Allow-Credentials "true"
+</IfModule>
+
+# Asegurar que las solicitudes a kit.fontawesome.com no sean bloqueadas
+RewriteCond %{HTTP_REFERER} ^https?://kit\.fontawesome\.com [NC]
+RewriteRule .* - [L]
+
+# Habilitar archivos SVG
+<IfModule mod_mime.c>
+    AddType image/svg+xml .svg
+</IfModule>
+
+# Habilitar compresión Gzip
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
+
+# Habilitar compresión Brotli
+<IfModule mod_brotli.c>
+    AddOutputFilterByType BROTLI_COMPRESS text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
+
+# Configuración de caché para archivos JSON
+<FilesMatch "\.(json)$">
+    Header set Cache-Control "max-age=604800, public"
+</FilesMatch>
+
+# Asegurar que los archivos de fuentes no sean solicitados innecesariamente
+<FilesMatch "\.(woff|woff2|ttf|eot)$">
+    Header set Cache-Control "max-age=31536000, public"
+</FilesMatch>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php81” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php81___lsphp .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

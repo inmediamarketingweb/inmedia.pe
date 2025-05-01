@@ -1,0 +1,295 @@
+{
+    "microservicios":[
+        {
+            "id": 1,
+            "icono": "fa-solid fa-bullhorn",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/bullhorn-solid.svg",
+            "iconImgAlt": "icono de megafono",
+            "titulo": [
+                {
+                    "span-1": "Marketing",
+                    "span-2": "digital efectivo"
+                }
+            ],
+            "texto": "Impulsa tu negocio con campañas digitales que generan leads y aumentan tus ventas.",
+            "link": "https://inmedia.pe/servicios/marketing-estrategico/"
+        },
+        {
+            "id": 2,
+            "icono": "fa-solid fa-chart-column",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/chart-column-solid.svg",
+            "iconImgAlt": "icono de grafica",
+            "titulo": [
+                {
+                    "span-1": "Publicidad de alto",
+                    "span-2": "impacto en medios"
+                }
+            ],
+            "texto": "Aumenta tu alcance con campañas publicitarias efectivas en medios digitales y tradicionales.",
+            "link": "https://inmedia.pe/servicios/publicidad-digital/"
+        },
+        {
+            "id": 3,
+            "icono": "fa-solid fa-robot",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/robot-solid.svg",
+            "iconImgAlt": "icono de robot",
+            "titulo": [
+                {
+                    "span-1": "Automatización de",
+                    "span-2": "chatbots inteligentes"
+                }
+            ],
+            "texto": "Deja que los chatbots vendan por ti, cierra ventas 24/7 los 365 días del año.",
+            "link": "https://inmedia.pe/servicios/chatbot-&-ventas/"
+        },
+        {
+            "id": 4,
+            "icono": "fa-solid fa-play",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/play-solid.svg",
+            "iconImgAlt": "icono de play o continuar",
+            "titulo": [
+                {
+                    "span-1": "Video marketing",
+                    "span-2": "creativo"
+                }
+            ],
+            "texto": "Creamos videos que venden, capturando la atención de tu audiencia al instante.",
+            "link": "https://inmedia.pe/servicios/video-marketing/"
+        },
+        {
+            "id": 5,
+            "icono": "fa-solid fa-user-pen",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/user-pen-solid.svg",
+            "iconImgAlt": "icono de usuario",
+            "titulo": [
+                {
+                    "span-1": "Diseño web",
+                    "span-2": "personalizado"
+                }
+            ],
+            "texto": "Desarrollamos sitios web a tu medida, fáciles de gestionar y diseñados para atraer clientes.",
+            "link": "https://inmedia.pe/servicios/diseno-web/"
+        },
+        {
+            "id": 6,
+            "icono": "fa-solid fa-bullhorn",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/bullhorn-solid.svg",
+            "iconImgAlt": "icono de megafono",
+            "titulo": [
+                {
+                    "span-1": "Consultoría en marketing",
+                    "span-2": "y ventas"
+                }
+            ],
+            "texto": "Dispara tus ventas con nuestra consultoría personalizada en marketing y estrategias de ventas.",
+            "link": "https://inmedia.pe/servicios/marketing-estrategico/"
+        },
+        {
+            "id": 7,
+            "icono": "fa-regular fa-object-group",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/object-group-regular.svg",
+            "iconImgAlt": "icono de iconos agrupados",
+            "titulo": [
+                {
+                    "span-1": "Diseño gráfico y",
+                    "span-2": "branding"
+                }
+            ],
+            "texto": "Renueva y fortalece la imagen de tu empresa con nuestro diseño gráfico y branding únicos",
+            "link": "https://inmedia.pe/servicios/diseno-grafico/"
+        },
+        {
+            "id": 8,
+            "icono": "fa-solid fa-award",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/award-solid.svg",
+            "iconImgAlt": "icono de medalla",
+            "titulo": [
+                {
+                    "span-1": "SEO y",
+                    "span-2": "SEM avanzado"
+                }
+            ],
+            "texto": "Posicionamos tu empresa, aumentando tu visibilidad y superando a la competencia.",
+            "link": "https://inmedia.pe/servicios/marketing-estrategico/"
+        },
+        {
+            "id": 9,
+            "icono": "fa-solid fa-photo-film",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/photo-film-solid.svg",
+            "iconImgAlt": "icono de video e imagen",
+            "titulo": [
+                {
+                    "span-1": "Producción",
+                    "span-2": "audiovisual"
+                }
+            ],
+            "texto": "En el mundo digital, los videos son clave. Destaca con contenido visual que impulsa tu marca.",
+            "link": "https://inmedia.pe/servicios/video-marketing/"
+        },
+        {
+            "id": 10,
+            "icono": "fa-solid fa-hashtag",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/chart-column-solid.svg",
+            "iconImgAlt": "icono de grafica",
+            "titulo": [
+                {
+                    "span-1": "Gestión de",
+                    "span-2": "redes sociales"
+                }
+            ],
+            "texto": "Deja en nuestras manos la gestión de tus redes sociales y potencia tu marca con expertos.",
+            "link": "https://inmedia.pe/servicios/gestion-de-redes-sociales/"
+        },
+        {
+            "id": 11,
+            "icono": "fa-solid fa-icons",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/icons-solid.svg",
+            "iconImgAlt": "icono de grupo de iconos",
+            "titulo": [
+                {
+                    "span-1": "Marketing",
+                    "span-2": "de contenidos"
+                }
+            ],
+            "texto": "Engancha a tu audiencia con contenido relevante que fortalece tu presencia digital.",
+            "link": "https://inmedia.pe/servicios/marketing-estrategico/"
+        },
+        {
+            "id": 12,
+            "icono": "fa-solid fa-bullhorn",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/bullhorn-solid.svg",
+            "iconImgAlt": "icono de megafono",
+            "titulo": [
+                {
+                    "span-1": "Estrategias",
+                    "span-2": "de marketing"
+                }
+            ],
+            "texto": "Con nuestras estrategias de marketing, tu empresa tendrá un crecimiento sólido y direccionado.",
+            "link": "https://inmedia.pe/servicios/marketing-estrategico/"
+        },
+        {
+            "id": 13,
+            "icono": "fa-solid fa-brain",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/brain-solid.svg",
+            "iconImgAlt": "icono de cerebro",
+            "titulo": [
+                {
+                    "span-1": "Soluciones de",
+                    "span-2": "inteligencia artificial"
+                }
+            ],
+            "texto": "No dejes que tu empresa se quede atrás. Implementa IA con nosotros y lidera tu sector.",
+            "link": "https://inmedia.pe/servicios/chatbot-&-ventas/"
+        },
+        {
+            "id": 14,
+            "icono": "fa-solid fa-users-rays",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/users-rays-solid.svg",
+            "iconImgAlt": "icono de persona",
+            "titulo": [
+                {
+                    "span-1": "Gestión de",
+                    "span-2": "experiencia del cliente"
+                }
+            ],
+            "texto": "Fideliza a tus clientes con estrategias CXM que optimizan cada interacción",
+            "link": "https://inmedia.pe/servicios/video-marketing/"
+        },
+        {
+            "id": 15,
+            "icono": "fa-solid fa-ruler-combined",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/ruler-combined-solid.svg",
+            "iconImgAlt": "icono de grafica",
+            "titulo": [
+                {
+                    "span-1": "Análisis y métricas",
+                    "span-2": "de crecimiento"
+                }
+            ],
+            "texto": "Rompe el ciclo estancado con nuestro análisis estratégico y crece sin límites.",
+            "link": "https://inmedia.pe/servicios/chatbot-&-ventas/"
+        },
+        {
+            "id": 16,
+            "icono": "fa-solid fa-bullseye",
+            "iconoImg": "https://inmedia.pe/Imagenes/Iconos/blanco/bullseye-solid.svg",
+            "iconImgAlt": "icono de circulo como objetivo",
+            "titulo": [
+                {
+                    "span-1": "Capacitación en",
+                    "span-2": "marketing digital"
+                }
+            ],
+            "texto": "Te capacitamos para potenciar tu empresa y asegurar resultados extraordinarios.",
+            "link": "https://inmedia.pe/servicios/marketing-estrategico/"
+        }
+    ],
+
+    "faq":[
+        {
+            "id": 1,
+            "titulo": "Campañas de publicidad Google Adwords:",
+            "respuesta": [
+                {
+                    "parrafo-1": "Gestión de campañas pagadas en Google para aumentar la visibilidad y atraer clientes potenciales de manera efectiva.",
+                    "parrafo-2": "Los cobros son por click"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Campañas de publicidad en TikTok Ads:",
+            "respuesta": [
+                {
+                    "parrafo-1": "Creación de anuncios atractivos en TikTok para conectar con una audiencia joven y dinámica, potenciando el alcance de tu marca."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Campañas de publicidad en Facebook Ads:",
+            "respuesta": [
+                {
+                    "parrafo-1": "Estrategias personalizadas de anuncios en Facebook para llegar a tu público objetivo y aumentar la conversión."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "Diseño de páginas web de e-commerce:",
+            "respuesta": [
+                {
+                    "parrafo-1": "Desarrollo de tiendas online optimizadas para maximizar las ventas y ofrecer una excelente experiencia de usuario."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "titulo": "Diseño de páginas autoadministrables:",
+            "respuesta": [
+                {
+                    "parrafo-1": "Desarrollo de sitios web fáciles de gestionar para que puedas actualizar tu contenido sin necesidad de conocimientos técnicos."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "titulo": "Desarrollo de videos marketing:",
+            "respuesta": [
+                {
+                    "parrafo-1": "Producción de videos estratégicos para promocionar productos o servicios, aumentando el engagement y la conexión con tu audiencia."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "titulo": "Videos de captación, propuesta irresistible y testimoniales:",
+            "respuesta": [
+                {
+                    "parrafo-1": "Producción de videos enfocados en captar la atención, presentar ofertas irresistibles y mostrar testimonios, incrementando la credibilidad y las ventas."
+                }
+            ]
+        }
+    ]
+}
