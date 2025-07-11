@@ -24,6 +24,7 @@
     --text: #555555;
 
     --t-100ms: all 100ms linear;
+    --t-200ms: all 200ms linear;
     --t-300ms: all 300ms linear;
 }
 
