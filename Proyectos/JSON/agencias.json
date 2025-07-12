@@ -4793,6 +4793,74 @@
                     "provincia": "Leoncio Prado",
                     "distritos":[
                         {
+                            "distrito": "Tingo María",
+                            "agencias":[
+                                {
+                                    "agencia": "Transporte Hugamir EIRL",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jr. Luna Pizarro 429",
+                                            "link": "https://maps.app.goo.gl/zhj9UBD8T4WywvoU6",
+                                            "envio-por-agencia": 250,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Zurita Express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jirón Hipólito Unanue 808",
+                                            "link": "https://maps.app.goo.gl/bHwmM4bKPRugLj3x8",
+                                            "envio-por-agencia": 280,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Carhuamayo",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jr. Andahuaylas 340",
+                                            "link": "https://maps.app.goo.gl/B7J5A9oQa7fdH8qq8",
+                                            "envio-por-agencia": 250,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
                             "distrito": "Castillo Grande"
                         },
                         {
