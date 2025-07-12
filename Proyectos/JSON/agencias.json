@@ -6001,7 +6001,30 @@
                             "distrito": "Cayaltí"
                         },
                         {
-                            "distrito": "Chiclayo"
+                            "distrito": "Chiclayo",
+                            "agencias":[
+                                {
+                                    "agencia": "Cargo express americano",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jirón Huascarán 545",
+                                            "link": "https://maps.app.goo.gl/ZhSoeZGYALy8Gic39",
+                                            "envio-por-agencia": 170,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Chongoyaque"
