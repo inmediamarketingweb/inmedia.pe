@@ -1575,8 +1575,31 @@
                             "envio-directo": 350
                         },
                         {
-                            "distrito": "Haura",
-                            "envio-directo": 400
+                            "distrito": "Huaura",
+                            "envio-directo": 400,
+                            "agencias":[
+                                {
+                                    "agencia": "Señor de Luren",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jr. Andahuaylas 250",
+                                            "link": "https://maps.app.goo.gl/WKVDjNwX1XUBaB2Z8",
+                                            "envio-por-agencia": 200,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Vegueta",
@@ -3840,7 +3863,30 @@
                     "provincia": "Camaná",
                     "distritos":[
                         {
-                            "distrito": "Camaná"
+                            "distrito": "Camaná",
+                            "agencias":[
+                                {
+                                    "agencia": "Grael",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jr. Luna Pizarro 606",
+                                            "link": "https://maps.app.goo.gl/Yf9ZL4jdhbqrB8qGA",
+                                            "envio-por-agencia": 300,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "José María Quimper"
@@ -3887,7 +3933,30 @@
                             "distrito": "Caravelí"
                         },
                         {
-                            "distrito": "Chala"
+                            "distrito": "Chala",
+                            "agencias":[
+                                {
+                                    "agencia": "Grael",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jr. Luna Pizarro 606",
+                                            "link": "https://maps.app.goo.gl/Yf9ZL4jdhbqrB8qGA",
+                                            "envio-por-agencia": 300,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Cháparra"
@@ -4957,6 +5026,32 @@
                         },
                         {
                             "distrito": "Tocmoche"
+                        },
+                        {
+                            "distrito": "Chota",
+                            "agencias":[
+                                {
+                                    "agencia": "Huascar Cargo Internacional",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jirón Hipólito Unanue 844",
+                                            "link": "https://maps.app.goo.gl/gCtQsRd1x5uhrknS9",
+                                            "envio-por-agencia": 280,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -5134,6 +5229,27 @@
                                             "direccion": "Jr. Luna Pizarro 606",
                                             "link": "https://maps.app.goo.gl/Yf9ZL4jdhbqrB8qGA",
                                             "envio-por-agencia": 300,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Huascar Cargo Internacional",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jirón Hipólito Unanue 844",
+                                            "link": "https://maps.app.goo.gl/gCtQsRd1x5uhrknS9",
+                                            "envio-por-agencia": 280,
                                             "tipos-de-envio":[
                                                 {
                                                     "tipo-de-envio": "Envío preferente",
@@ -6418,6 +6534,27 @@
                                             ]
                                         }
                                     ]
+                                },
+                                {
+                                    "agencia": "La Nacional",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jr. Luna Pizarro 254",
+                                            "link": "https://maps.app.goo.gl/FiKmMW3KFgMbzBVG8",
+                                            "envio-por-agencia": 150,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
                                 }
                             ]
                         },
@@ -6988,7 +7125,30 @@
                     "provincia": "Chincha",
                     "distritos":[
                         {
-                            "distrito": "Chavín"
+                            "distrito": "Chavín",
+                            "agencias":[
+                                {
+                                    "agencia": "Agencia Julio Cesar",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jose Galvez 562",
+                                            "link": "https://maps.app.goo.gl/abEuW8hLrH3wNpsD6",
+                                            "envio-por-agencia": 180,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Chincha Alta",
@@ -9255,6 +9415,53 @@
                         },
                         {
                             "distrito": "Laberinto"
+                        },
+                        {
+                            "distrito": "Puerto maldonado",
+                            "agencias":[
+                                {
+                                    "agencia": "Expreso Los Chankas",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jr. Luna Pizarro 271",
+                                            "link": "https://maps.app.goo.gl/zRqE3TJtwD1XQyyh7",
+                                            "envio-por-agencia": 400,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Grael",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jr. Luna Pizarro 606",
+                                            "link": "https://maps.app.goo.gl/Yf9ZL4jdhbqrB8qGA",
+                                            "envio-por-agencia": 300,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
@@ -9445,6 +9652,32 @@
                     "provincia": "Pasco",
                     "distritos":[
                         {
+                            "distrito": "Cerro de pasco",
+                            "agencias":[
+                                {
+                                    "agencia": "La Nacional",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jr. Luna Pizarro 254",
+                                            "link": "https://maps.app.goo.gl/FiKmMW3KFgMbzBVG8",
+                                            "envio-por-agencia": 150,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
                             "distrito": "Chaupimarca"
                         },
                         {
@@ -9561,10 +9794,82 @@
                             "distrito": "Lobitos"
                         },
                         {
-                            "distrito": "Los Órganos"
+                            "distrito": "Los Órganos",
+                            "agencias":[
+                                {
+                                    "agencia": "Transportes Lama",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jirón García Naranjo 1072",
+                                            "link": "https://maps.app.goo.gl/Q6uBPiNtVaA7CbB89",
+                                            "envio-por-agencia": 300,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
-                            "distrito": "Máncora"
+                            "distrito": "Vichayito",
+                            "agencias":[
+                                {
+                                    "agencia": "Transportes Lama",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jirón García Naranjo 1072",
+                                            "link": "https://maps.app.goo.gl/Q6uBPiNtVaA7CbB89",
+                                            "envio-por-agencia": 300,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "Máncora",
+                            "agencias":[
+                                {
+                                    "agencia": "Transportes Lama",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jirón García Naranjo 1072",
+                                            "link": "https://maps.app.goo.gl/Q6uBPiNtVaA7CbB89",
+                                            "envio-por-agencia": 300,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Pariñas"
@@ -9579,6 +9884,27 @@
                                             "sede": "La Victoria",
                                             "direccion": "Jr. Luna Pizarro 606",
                                             "link": "https://maps.app.goo.gl/Yf9ZL4jdhbqrB8qGA",
+                                            "envio-por-agencia": 300,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "agencia": "Transportes Lama",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jirón García Naranjo 1072",
+                                            "link": "https://maps.app.goo.gl/Q6uBPiNtVaA7CbB89",
                                             "envio-por-agencia": 300,
                                             "tipos-de-envio":[
                                                 {
@@ -11411,7 +11737,30 @@
                     "provincia": "Contralmirante Villar",
                     "distritos":[
                         {
-                            "distrito": "Canoas de Punta Sal"
+                            "distrito": "Punta Sal",
+                            "agencias":[
+                                {
+                                    "agencia": "Transportes Lama",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jirón García Naranjo 1072",
+                                            "link": "https://maps.app.goo.gl/Q6uBPiNtVaA7CbB89",
+                                            "envio-por-agencia": 300,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "distrito": "Casitas"
@@ -11595,6 +11944,58 @@
                         },
                         {
                             "distrito": "Padre Abad"
+                        },
+                        {
+                            "distrito": "Aguaytia",
+                            "agencias":[
+                                {
+                                    "agencia": "Zurita Express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jirón Hipólito Unanue 808",
+                                            "link": "https://maps.app.goo.gl/bHwmM4bKPRugLj3x8",
+                                            "envio-por-agencia": 250,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "distrito": "San Alejandro",
+                            "agencias":[
+                                {
+                                    "agencia": "Zurita Express",
+                                    "sedes":[
+                                        {
+                                            "sede": "La Victoria",
+                                            "direccion": "Jirón Hipólito Unanue 808",
+                                            "link": "https://maps.app.goo.gl/bHwmM4bKPRugLj3x8",
+                                            "envio-por-agencia": 250,
+                                            "tipos-de-envio":[
+                                                {
+                                                    "tipo-de-envio": "Envío preferente",
+                                                    "precio": 35
+                                                },
+                                                {
+                                                    "tipo-de-envio": "Envío aplicado",
+                                                    "precio": 70
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
